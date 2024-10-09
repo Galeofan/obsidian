@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Курсы.md",
+                "file": "MARKDOWN/Образец.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Курсы.md",
+                "file": "MARKDOWN/Образец.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Курсы.md",
+                "file": "MARKDOWN/Образец.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Курсы.md"
+                "file": "MARKDOWN/Образец.md"
               }
             }
           },
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +180,14 @@
   },
   "active": "7e1dbd6b34ca7829",
   "lastOpenFiles": [
+    "MARKDOWN/Синтаксис.md",
+    "MARKDOWN/Образец.md",
+    "JAVA/Курсы.md",
+    "LINUX/Без названия.md",
+    "LINUX/__attachments/Pasted image 20241009215510.png",
+    "LINUX/__attachments",
     "JAVA/Идеи проектов.md",
     "JAVA/Задачи.md",
-    "JAVA/Курсы.md",
     "JAVA/Литература.md",
     "JAVA/Без названия.md",
     "README.md",
@@ -189,8 +195,6 @@
     "DOCKER",
     "MARKDOWN/__attachments/Pasted image 20241009143227.png",
     "MARKDOWN/__attachments/Pasted image 20241009143139.png",
-    "MARKDOWN/Синтаксис.md",
-    "MARKDOWN/Образец.md",
     "MARKDOWN/__attachments",
     "MARKDOWN",
     "LINUX",
@@ -208,7 +212,6 @@
     "obsidian/JAVA/Идеи проектов.md",
     "obsidian/JAVA/Задачи.md",
     "obsidian/JAVA/Без названия.md",
-    "obsidian/MARKDOWN",
     "obsidian/GIT/Без названия.md",
     "obsidian/MARKDOWN/Без названия 2.md",
     "obsidian/README.md",
@@ -217,7 +220,6 @@
     "obsidian/MARKDOWN/Без названия.md",
     "Без названия.canvas",
     "JAVA/JAVA.md",
-    "JAVA/Идеи.md",
-    "GIT.md"
+    "JAVA/Идеи.md"
   ]
 }
