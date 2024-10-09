@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "MARKDOWN/Образец.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "MARKDOWN/Образец.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "MARKDOWN/Образец.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md"
+                "file": "MARKDOWN/Образец.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "7e1dbd6b34ca7829",
   "lastOpenFiles": [
-    "MARKDOWN/Образец.md",
     "MARKDOWN/Синтаксис.md",
+    "MARKDOWN/__attachments/Pasted image 20241009143227.png",
+    "MARKDOWN/__attachments/Pasted image 20241009143139.png",
+    "MARKDOWN/Образец.md",
     "JAVA/Курсы.md",
     "LINUX/Без названия.md",
     "LINUX/__attachments/Pasted image 20241009215510.png",
@@ -193,8 +195,6 @@
     "README.md",
     "GIT",
     "DOCKER",
-    "MARKDOWN/__attachments/Pasted image 20241009143227.png",
-    "MARKDOWN/__attachments/Pasted image 20241009143139.png",
     "MARKDOWN/__attachments",
     "MARKDOWN",
     "LINUX",
