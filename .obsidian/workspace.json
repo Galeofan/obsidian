@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aeab9c3a6e352ee9",
+        "id": "277c20448b44b0a5",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1dbd6b34ca7829",
+            "id": "400e924efc2197cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "068e831543baa919",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "5feae4bc9cf4bcaf",
             "type": "leaf",
             "state": {
@@ -64,8 +54,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "45d9f93dba16dcfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,16 +176,19 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "remotely-save:Remotely Save": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e1dbd6b34ca7829",
+  "active": "400e924efc2197cf",
   "lastOpenFiles": [
+    "MARKDOWN/Untitled Diagram.svg",
     "Без названия.md",
+    "Drawing 2024-10-09 22.58.10.excalidraw.md",
+    "Untitled Diagram.svg",
     "MARKDOWN/Образец.md",
     "Без названия 1.md",
     "MARKDOWN/Untitled Diagram 1.svg",
-    "MARKDOWN/Untitled Diagram.svg",
     "Без названия.canvas",
     "MARKDOWN/Синтаксис.md",
     "MARKDOWN/__attachments/Pasted image 20241009143227.png",
@@ -221,8 +225,6 @@
     "obsidian/MARKDOWN/Без названия 2.md",
     "obsidian/README.md",
     "Synced/obsidian/README.md",
-    "obsidian/MARKDOWN/Без названия 1.md",
-    "obsidian/MARKDOWN/Без названия.md",
-    "JAVA/JAVA.md"
+    "obsidian/MARKDOWN/Без названия 1.md"
   ]
 }
