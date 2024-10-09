@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "__attachments",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./__attachments",
+  "livePreview": true
+}
