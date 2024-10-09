@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MARKDOWN/Образец.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -178,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e1dbd6b34ca7829",
+  "active": "97cc7921a0bfb337",
   "lastOpenFiles": [
     "MARKDOWN/Синтаксис.md",
     "MARKDOWN/Образец.md",
