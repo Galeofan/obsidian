@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "277c20448b44b0a5",
+        "id": "82c84c56a2e51c89",
         "type": "tabs",
         "children": [
           {
-            "id": "400e924efc2197cf",
+            "id": "44c891b04bfe3c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,11 +177,13 @@
       "command-palette:Открыть палитру команд": false,
       "remotely-save:Remotely Save": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "400e924efc2197cf",
+  "active": "44c891b04bfe3c63",
   "lastOpenFiles": [
+    "README.md",
     "MARKDOWN/Синтаксис.md",
     "MARKDOWN/Синтаксис.md",
     "MARKDOWN/Untitled Diagram.svg",
@@ -201,7 +203,6 @@
     "JAVA/Задачи.md",
     "JAVA/Литература.md",
     "JAVA/Без названия.md",
-    "README.md",
     "GIT",
     "DOCKER",
     "MARKDOWN/__attachments",
