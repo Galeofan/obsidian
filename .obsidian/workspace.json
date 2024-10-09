@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN/Образец.md",
+                "file": "MARKDOWN/Синтаксис.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN/Образец.md",
+                "file": "MARKDOWN/Синтаксис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN/Образец.md",
+                "file": "MARKDOWN/Синтаксис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN/Образец.md"
+                "file": "MARKDOWN/Синтаксис.md"
               }
             }
           },
@@ -182,15 +182,15 @@
   },
   "active": "400e924efc2197cf",
   "lastOpenFiles": [
+    "MARKDOWN/Синтаксис.md",
+    "MARKDOWN/Синтаксис.md",
     "MARKDOWN/Untitled Diagram.svg",
     "Без названия.md",
     "Drawing 2024-10-09 22.58.10.excalidraw.md",
     "Untitled Diagram.svg",
-    "MARKDOWN/Образец.md",
     "Без названия 1.md",
     "MARKDOWN/Untitled Diagram 1.svg",
     "Без названия.canvas",
-    "MARKDOWN/Синтаксис.md",
     "MARKDOWN/__attachments/Pasted image 20241009143227.png",
     "MARKDOWN/__attachments/Pasted image 20241009143139.png",
     "JAVA/Курсы.md",
