@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/__JAVA.md",
+                "file": "INTELLIJ IDEA/__Intellij IDEA.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/__JAVA.md",
+                "file": "INTELLIJ IDEA/__Intellij IDEA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/__JAVA.md",
+                "file": "INTELLIJ IDEA/__Intellij IDEA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/__JAVA.md"
+                "file": "INTELLIJ IDEA/__Intellij IDEA.md"
               }
             }
           },
@@ -183,32 +183,32 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
+    "GIT/GitHub.md",
+    "GIT/__GIT.md",
+    "DOCKER/__DOCKER.md",
+    "JAVA/Java Core/Базовый синтаксис/JVM.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/__JAVA.md",
     "index.md",
     "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
-    "JAVA/__JAVA.md",
     "INTELLIJ IDEA/__Intellij IDEA.md",
     "JAVA/Литература.md",
     "JAVA/Курсы.md",
     "JAVA/Идеи проектов.md",
     "JAVA/Задачи.md",
-    "DOCKER/__DOCKER.md",
     "LINUX/__LINUX.md",
     "MARKDOWN/__Markdown.md",
     "MARKDOWN/Синтаксис.md",
-    "GIT/__GIT.md",
     "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
     "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
-    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/JVM.md",
-    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "INTELLIJ IDEA/Плагины.md",
     "INTELLIJ IDEA/Настройки.md",
     "INTELLIJ IDEA/Хоткеи.md",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010232909.png",
-    "GIT/GitHub.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215216.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215105.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213956.png",

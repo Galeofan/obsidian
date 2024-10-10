@@ -1,6 +1,6 @@
 ---
 tags: 
-link: https://gitforwindows.org/
+links: https://gitforwindows.org/
 ---
 ### Связи
 [GitHub](GIT/GitHub.md)

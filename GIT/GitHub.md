@@ -1,5 +1,5 @@
 ---
-link: https://github.com/Galeofan
+links: https://github.com/Galeofan
 download_link: https://desktop.github.com/download/
 tags:
   - github

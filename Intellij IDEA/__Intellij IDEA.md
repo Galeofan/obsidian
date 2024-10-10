@@ -1,7 +1,7 @@
 ---
 tags:
   - Idea
-link: https://www.jetbrains.com/idea/download/?section=windows
+links: https://www.jetbrains.com/idea/download/?section=windows
 ---
 ### Связи
 [Хоткеи](INTELLIJ%20IDEA/Хоткеи.md)
