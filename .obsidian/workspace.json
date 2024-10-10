@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b79ce5934f7723eb",
+        "id": "4ee6a843f92dd196",
         "type": "tabs",
         "children": [
           {
-            "id": "fea68b79c72d8532",
+            "id": "3628f70beed1333a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,12 +181,12 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "fea68b79c72d8532",
+  "active": "3628f70beed1333a",
   "lastOpenFiles": [
-    "MARKDOWN/Синтаксис.md",
-    "JAVA/Java Core/_Установка/Установка.md",
-    "GIT/GIT.md",
     "Intellij IDEA/Intellij IDEA.md",
+    "JAVA/Java Core/_Установка/Установка.md",
+    "MARKDOWN/Синтаксис.md",
+    "GIT/GIT.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/__JAVA.md",
     "JAVA/Задачи.md",
