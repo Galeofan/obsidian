@@ -1,6 +1,7 @@
 ---
 tags:
   - Java_core
+link: https://www.oracle.com/java/technologies/downloads/
 ---
 
 JDK (Java Development Kit) - 
