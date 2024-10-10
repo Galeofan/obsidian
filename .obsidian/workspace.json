@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/__GIT.md",
+                "file": "GIT/GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/__GIT.md",
+                "file": "GIT/GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/__GIT.md",
+                "file": "GIT/GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/__GIT.md"
+                "file": "GIT/GitHub.md"
               }
             }
           },
@@ -183,14 +183,14 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
+    "JAVA/Java Core/_Установка/Установка основных инструментов.md",
     "GIT/GitHub.md",
     "GIT/__GIT.md",
     "Intellij IDEA/Настройки.md",
     "Intellij IDEA/__Intellij IDEA.md",
-    "MARKDOWN/Синтаксис.md",
     "Intellij IDEA/Хоткеи.md",
+    "MARKDOWN/Синтаксис.md",
     "JAVA/__JAVA.md",
-    "JAVA/Java Core/_Установка/Установка основных инструментов.md",
     "GIT/Без названия.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "job4j_tracker/src/test/java/ru/job4j/tracker/TrackerTest.java",
