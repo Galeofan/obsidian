@@ -11,8 +11,12 @@
             "id": "fea68b79c72d8532",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MARKDOWN/Синтаксис.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MARKDOWN/Синтаксис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MARKDOWN/Синтаксис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MARKDOWN/Синтаксис.md"
+              }
             }
           },
           {
@@ -175,17 +183,18 @@
   },
   "active": "fea68b79c72d8532",
   "lastOpenFiles": [
+    "JAVA/__JAVA.md",
+    "JAVA/Задачи.md",
+    "JAVA/Java Core/_Установка/Установка.md",
+    "JAVA/Java Core/_Установка",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "JAVA/Java Core/Установка.md",
     "MARKDOWN/Синтаксис.md",
-    "JAVA/Java Core/Установка",
+    "JAVA/Java Core/_Установка",
     "JAVA/Java Core/Без названия",
-    "JAVA/__index.md",
     "JAVA/Java Core/Базовый синтаксис",
     "JAVA/Java Core",
     "JAVA/Spring",
     "JAVA/Курсы.md",
-    "JAVA/Задачи.md",
     "README.md",
     "MARKDOWN/Untitled Diagram.svg",
     "Без названия.md",
@@ -204,7 +213,6 @@
     "GIT",
     "DOCKER",
     "MARKDOWN/__attachments",
-    "MARKDOWN",
     "New note.md",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143227.png",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143139.png",
@@ -218,7 +226,6 @@
     "obsidian/GIT/Без названия.md",
     "obsidian/MARKDOWN/Без названия 2.md",
     "obsidian/README.md",
-    "Synced/obsidian/README.md",
-    "obsidian/MARKDOWN/Без названия 1.md"
+    "Synced/obsidian/README.md"
   ]
 }
