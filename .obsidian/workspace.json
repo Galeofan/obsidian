@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md",
+                "file": "GIT/GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md",
+                "file": "GIT/GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md",
+                "file": "GIT/GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md"
+                "file": "GIT/GitHub.md"
               }
             }
           },
@@ -208,23 +208,28 @@
   },
   "active": "d8cabc7cb8577a98",
   "lastOpenFiles": [
+    "JAVA/Java Core/_Установка/Установка.md",
     "GIT/GitHub.md",
+    "job4j_tracker/src/test/java/ru/job4j/tracker/TrackerTest.java",
+    "job4j_tracker/src/test/java/ru/job4j/oop/TriangleTest.java",
+    "job4j_tracker/src/test/java/ru/job4j/oop/BatteryTest.java",
+    "job4j_tracker/src/main/java/ru/job4j/tracker/Tracker.java",
+    "job4j_tracker/src/main/java/ru/job4j/tracker/StartUI.java",
+    "job4j_tracker/src/main/java/ru/job4j/tracker/Item.java",
+    "job4j_tracker/src/main/java/ru/job4j/oop/Wolf.java",
+    "job4j_tracker/src/main/java/ru/job4j/oop/Triangle.java",
+    "job4j_tracker/src/main/java/ru/job4j/oop/Student.java",
+    "job4j_tracker/src/main/java/ru/job4j/oop/Point.java",
+    "job4j_tracker/README.md",
+    "-job4j_elementary/README.md",
     "GIT/Без названия.md",
     "GIT/__GIT.md",
-    "JAVA/Java Core/_Установка/Установка.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/__JAVA.md",
     "Intellij IDEA/Intellij IDEA.md",
     "MARKDOWN/Синтаксис.md",
     "JAVA/Задачи.md",
-    "Intellij IDEA",
     "MARKDOWN/__Markdown.md",
-    "JAVA/Java Core/_Установка",
-    "JAVA/Java Core/_Установка",
-    "JAVA/Java Core/Без названия",
-    "JAVA/Java Core/Базовый синтаксис",
-    "JAVA/Java Core",
-    "JAVA/Spring",
     "JAVA/Курсы.md",
     "README.md",
     "MARKDOWN/Untitled Diagram.svg",
@@ -238,20 +243,14 @@
     "MARKDOWN/__attachments/Pasted image 20241009143139.png",
     "LINUX/Без названия.md",
     "LINUX/__attachments/Pasted image 20241009215510.png",
-    "LINUX/__attachments",
     "JAVA/Идеи проектов.md",
     "JAVA/Литература.md",
-    "GIT",
-    "DOCKER",
     "New note.md",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143227.png",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143139.png",
     "obsidian/MARKDOWN/Синтаксис.md",
     "obsidian/MARKDOWN/Образец.md",
     "obsidian/JAVA/Литература.md",
-    "obsidian/JAVA/Курсы.md",
-    "obsidian/JAVA/Идеи проектов.md",
-    "obsidian/JAVA/Задачи.md",
-    "obsidian/JAVA/Без названия.md"
+    "obsidian/JAVA/Курсы.md"
   ]
 }
