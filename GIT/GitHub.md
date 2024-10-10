@@ -4,7 +4,7 @@ download_link: https://desktop.github.com/download/
 tags:
   - github
 ---
->[!info] 
+>[!info] Определение
 >GitHub - система хранения кода в облаке гитхаб
 
 ---
@@ -24,4 +24,5 @@ tags:
 1. Выполняем команду для генерации проекта Git: `git init`
 2. Прописываем SSH или HTTPS адрес нового репозитория: `git remote add origin СКОПИРОВАННЫЙ_SSH_АДРЕС_РЕПОЗИТОРИЯ` Пример: `git@github.com:Galeofan/-job4j_elementary.git`
 3. Выполняем команду для проверки адреса: `git remote -v`
-4. 
+4. Выполняем команду для переключения ветки: `git checkout -b master`
+5. Выполняем команду для синхронизации: `git fetch`
