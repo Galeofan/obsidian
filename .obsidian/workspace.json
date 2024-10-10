@@ -197,9 +197,11 @@
   "active": "dcfc91ed1c49b2ad",
   "lastOpenFiles": [
     "Intellij IDEA/Настройки.md",
-    "Intellij IDEA/Плагины.md",
     "Intellij IDEA/__Intellij IDEA.md",
+    "Intellij IDEA/Плагины.md",
     "Intellij IDEA/Хоткеи.md",
+    "Intellij IDEA/__attachments/checkstyle.xml",
+    "Intellij IDEA/__attachments",
     "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
@@ -226,8 +228,6 @@
     "job4j_tracker/src/main/java/ru/job4j/tracker/StartUI.java",
     "job4j_tracker/src/main/java/ru/job4j/tracker/Item.java",
     "job4j_tracker/src/main/java/ru/job4j/oop/Wolf.java",
-    "job4j_tracker/src/main/java/ru/job4j/oop/Triangle.java",
-    "job4j_tracker/src/main/java/ru/job4j/oop/Student.java",
     "job4j_tracker/README.md",
     "-job4j_elementary/README.md",
     "JAVA/Задачи.md",
@@ -241,7 +241,6 @@
     "MARKDOWN/Untitled Diagram 1.svg",
     "Без названия.canvas",
     "MARKDOWN/__attachments/Pasted image 20241009143227.png",
-    "MARKDOWN/__attachments/Pasted image 20241009143139.png",
-    "LINUX/Без названия.md"
+    "MARKDOWN/__attachments/Pasted image 20241009143139.png"
   ]
 }

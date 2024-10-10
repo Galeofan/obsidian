@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Idea
 link: https://www.jetbrains.com/idea/download/?section=windows
 ---
 ### Связи
