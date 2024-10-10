@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Без названия.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Без названия.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Без названия.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Без названия.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md"
               }
             }
           },
@@ -181,18 +181,19 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "45d9f93dba16dcfb",
+  "active": "2f951f025222117e",
   "lastOpenFiles": [
-    "JAVA/Установка",
+    "JAVA/Java Core/Установка/JDK.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
+    "MARKDOWN/Синтаксис.md",
+    "JAVA/Java Core/Установка",
     "JAVA/Java Core/Без названия",
     "JAVA/__index.md",
-    "JAVA/Java Core/Базовый синтаксис/Без названия.md",
     "JAVA/Java Core/Базовый синтаксис",
     "JAVA/Java Core",
     "JAVA/Spring",
     "JAVA/Курсы.md",
     "JAVA/Задачи.md",
-    "MARKDOWN/Синтаксис.md",
     "README.md",
     "MARKDOWN/Untitled Diagram.svg",
     "Без названия.md",
@@ -212,7 +213,6 @@
     "DOCKER",
     "MARKDOWN/__attachments",
     "MARKDOWN",
-    "LINUX",
     "New note.md",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143227.png",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143139.png",
