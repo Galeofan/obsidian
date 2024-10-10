@@ -4,8 +4,8 @@ tags:
 link: https://www.jetbrains.com/idea/download/?section=windows
 ---
 ### Связи
-[Хоткеи](Intellij%20IDEA/Хоткеи.md)
-[Настройки](Intellij%20IDEA/Настройки.md)
+[Хоткеи](INTELLIJ%20IDEA/Хоткеи.md)
+[Настройки](INTELLIJ%20IDEA/Настройки.md)
 
 ---
 
