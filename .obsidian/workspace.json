@@ -6,6 +6,7 @@
       {
         "id": "0c87b53092793645",
         "type": "tabs",
+        "dimension": 50.58664259927797,
         "children": [
           {
             "id": "2f951f025222117e",
@@ -13,8 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
+                "file": "JAVA/Java Core/Установка/JDK.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b79ce5934f7723eb",
+        "type": "tabs",
+        "dimension": 49.41335740072203,
+        "children": [
+          {
+            "id": "fea68b79c72d8532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Java Core/Установка/JDK.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
+                "file": "JAVA/Java Core/Установка/JDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
+                "file": "JAVA/Java Core/Установка/JDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md"
+                "file": "JAVA/Java Core/Установка/JDK.md"
               }
             }
           },
@@ -181,10 +201,10 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "2f951f025222117e",
+  "active": "fea68b79c72d8532",
   "lastOpenFiles": [
-    "JAVA/Java Core/Установка/JDK.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
+    "JAVA/Java Core/Установка/JDK.md",
     "MARKDOWN/Синтаксис.md",
     "JAVA/Java Core/Установка",
     "JAVA/Java Core/Без названия",

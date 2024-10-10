@@ -8,5 +8,7 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./__attachments",
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false
 }
