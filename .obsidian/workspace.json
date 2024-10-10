@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/__GIT.md",
+                "file": "JAVA/Java Core/_Установка/Установка основных инструментов.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/__GIT.md",
+                "file": "JAVA/Java Core/_Установка/Установка основных инструментов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/__GIT.md",
+                "file": "JAVA/Java Core/_Установка/Установка основных инструментов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/__GIT.md"
+                "file": "JAVA/Java Core/_Установка/Установка основных инструментов.md"
               }
             }
           },
@@ -183,13 +183,13 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
+    "Intellij IDEA/__Intellij IDEA.md",
+    "GIT/__GIT.md",
     "GIT/GitHub.md",
     "Intellij IDEA/Хоткеи.md",
-    "Intellij IDEA/__Intellij IDEA.md",
     "Intellij IDEA/Настройки.md",
     "MARKDOWN/Синтаксис.md",
     "MARKDOWN/__Markdown.md",
-    "GIT/__GIT.md",
     "JAVA/Java Core/_Установка/Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/__JAVA.md",
