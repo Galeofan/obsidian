@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82c84c56a2e51c89",
+        "id": "0c87b53092793645",
         "type": "tabs",
         "children": [
           {
-            "id": "44c891b04bfe3c63",
+            "id": "2f951f025222117e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "JAVA/__Оглавление.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "JAVA/__Оглавление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "JAVA/__Оглавление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md"
+                "file": "JAVA/__Оглавление.md"
               }
             }
           },
@@ -181,11 +181,12 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "44c891b04bfe3c63",
+  "active": "2f951f025222117e",
   "lastOpenFiles": [
+    "JAVA/Задачи.md",
+    "JAVA/__Оглавление.md",
+    "MARKDOWN/Синтаксис.md",
     "README.md",
-    "MARKDOWN/Синтаксис.md",
-    "MARKDOWN/Синтаксис.md",
     "MARKDOWN/Untitled Diagram.svg",
     "Без названия.md",
     "Drawing 2024-10-09 22.58.10.excalidraw.md",
@@ -200,9 +201,7 @@
     "LINUX/__attachments/Pasted image 20241009215510.png",
     "LINUX/__attachments",
     "JAVA/Идеи проектов.md",
-    "JAVA/Задачи.md",
     "JAVA/Литература.md",
-    "JAVA/Без названия.md",
     "GIT",
     "DOCKER",
     "MARKDOWN/__attachments",
