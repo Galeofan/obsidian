@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GitHub.md",
+                "file": "JAVA/Java Core/_Установка/Установка.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/GitHub.md",
+                "file": "JAVA/Java Core/_Установка/Установка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/GitHub.md",
+                "file": "JAVA/Java Core/_Установка/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/GitHub.md"
+                "file": "JAVA/Java Core/_Установка/Установка.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "d8cabc7cb8577a98",
   "lastOpenFiles": [
-    "JAVA/Java Core/_Установка/Установка.md",
+    "GIT/Без названия.md",
     "GIT/GitHub.md",
+    "JAVA/Java Core/_Установка/Установка.md",
     "job4j_tracker/src/test/java/ru/job4j/tracker/TrackerTest.java",
     "job4j_tracker/src/test/java/ru/job4j/oop/TriangleTest.java",
     "job4j_tracker/src/test/java/ru/job4j/oop/BatteryTest.java",
@@ -222,7 +223,6 @@
     "job4j_tracker/src/main/java/ru/job4j/oop/Point.java",
     "job4j_tracker/README.md",
     "-job4j_elementary/README.md",
-    "GIT/Без названия.md",
     "GIT/__GIT.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/__JAVA.md",
