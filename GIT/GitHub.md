@@ -2,7 +2,7 @@
 links: https://github.com/Galeofan
 download_link: https://desktop.github.com/download/
 tags:
-  - github
+  - Github
 ---
 >[!info] Определение
 >GitHub - система хранения кода в облаке гитхаб
