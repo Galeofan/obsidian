@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
-                "mode": "preview",
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/JDK.md"
               }
             }
           },
@@ -197,9 +197,11 @@
   "active": "dcfc91ed1c49b2ad",
   "lastOpenFiles": [
     "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "GIT/GitHub.md",
+    "GIT/__GIT.md",
     "JAVA/Java Core/_Установка/Установка основных инструментов.md",
     "JAVA/__JAVA.md",
     "Intellij IDEA/__Intellij IDEA.md",
@@ -210,8 +212,6 @@
     "JAVA/Java Core/Базовый синтаксис/__attachments",
     "Intellij IDEA/Хоткеи.md",
     "Intellij IDEA/Настройки.md",
-    "GIT/GitHub.md",
-    "GIT/__GIT.md",
     "MARKDOWN/Синтаксис.md",
     "MARKDOWN/__Markdown.md",
     "GIT/Без названия.md",
