@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
-                "mode": "source",
+                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md"
               }
             }
           },
@@ -196,9 +196,9 @@
   },
   "active": "dcfc91ed1c49b2ad",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
-    "JAVA/Java Core/Базовый синтаксис/Термины.md",
     "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/Java Core/_Установка/Установка основных инструментов.md",
     "JAVA/__JAVA.md",
