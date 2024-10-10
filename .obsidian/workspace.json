@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intellij IDEA/Intellij IDEA.md",
+                "file": "Intellij IDEA/Хоткеи.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intellij IDEA/Intellij IDEA.md",
+                "file": "Intellij IDEA/Хоткеи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intellij IDEA/Intellij IDEA.md",
+                "file": "Intellij IDEA/Хоткеи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intellij IDEA/Intellij IDEA.md"
+                "file": "Intellij IDEA/Хоткеи.md"
               }
             }
           },
@@ -183,9 +183,11 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
+    "Intellij IDEA/__Intellij IDEA.md",
+    "JAVA/__JAVA.md",
+    "Intellij IDEA/Хоткеи.md",
     "JAVA/Java Core/_Установка/Установка.md",
     "GIT/__GIT.md",
-    "Intellij IDEA/Intellij IDEA.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "GIT/Без названия.md",
     "GIT/GitHub.md",
@@ -201,7 +203,6 @@
     "job4j_tracker/src/main/java/ru/job4j/oop/Point.java",
     "job4j_tracker/README.md",
     "-job4j_elementary/README.md",
-    "JAVA/__JAVA.md",
     "MARKDOWN/Синтаксис.md",
     "JAVA/Задачи.md",
     "MARKDOWN/__Markdown.md",
