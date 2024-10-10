@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md",
+                "file": "GIT/GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dfff94fd229a233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/GitHub.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md",
+                "file": "GIT/GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md",
+                "file": "GIT/GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/_Установка/Установка.md"
+                "file": "GIT/GitHub.md"
               }
             }
           },
@@ -181,12 +194,13 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "3628f70beed1333a",
+  "active": "8dfff94fd229a233",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "JAVA/Java Core/_Установка/Установка.md",
-    "Intellij IDEA/Intellij IDEA.md",
     "GIT/GIT.md",
+    "GIT/GitHub.md",
+    "JAVA/Java Core/_Установка/Установка.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
+    "Intellij IDEA/Intellij IDEA.md",
     "MARKDOWN/Синтаксис.md",
     "JAVA/__JAVA.md",
     "JAVA/Задачи.md",
@@ -226,7 +240,6 @@
     "obsidian/JAVA/Идеи проектов.md",
     "obsidian/JAVA/Задачи.md",
     "obsidian/JAVA/Без названия.md",
-    "obsidian/GIT/Без названия.md",
-    "obsidian/MARKDOWN/Без названия 2.md"
+    "obsidian/GIT/Без названия.md"
   ]
 }
