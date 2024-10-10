@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intellij IDEA/Без названия.md",
+                "file": "JAVA/Java Core/_Установка/Установка.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intellij IDEA/Без названия.md",
+                "file": "JAVA/Java Core/_Установка/Установка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intellij IDEA/Без названия.md",
+                "file": "JAVA/Java Core/_Установка/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intellij IDEA/Без названия.md"
+                "file": "JAVA/Java Core/_Установка/Установка.md"
               }
             }
           },
@@ -183,15 +183,16 @@
   },
   "active": "fea68b79c72d8532",
   "lastOpenFiles": [
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/Java Core/_Установка/Установка.md",
-    "Intellij IDEA/Без названия.md",
+    "GIT/GIT.md",
+    "Intellij IDEA/Intellij IDEA.md",
     "JAVA/__JAVA.md",
     "Intellij IDEA",
     "MARKDOWN/__Markdown.md",
     "MARKDOWN/Синтаксис.md",
     "JAVA/Задачи.md",
     "JAVA/Java Core/_Установка",
-    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/Java Core/_Установка",
     "JAVA/Java Core/Без названия",
     "JAVA/Java Core/Базовый синтаксис",
@@ -226,7 +227,6 @@
     "obsidian/JAVA/Задачи.md",
     "obsidian/JAVA/Без названия.md",
     "obsidian/GIT/Без названия.md",
-    "obsidian/MARKDOWN/Без названия 2.md",
-    "obsidian/README.md"
+    "obsidian/MARKDOWN/Без названия 2.md"
   ]
 }
