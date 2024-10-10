@@ -1,3 +1,8 @@
+---
+tags:
+  - Java_core
+---
+
 JDK (Java Development Kit) - 
 
 > [!LTS версии JDK]
