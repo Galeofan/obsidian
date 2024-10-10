@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcfc91ed1c49b2ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md"
               }
             }
           },
@@ -181,11 +194,13 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "47e9114e2d19af01",
+  "active": "dcfc91ed1c49b2ad",
   "lastOpenFiles": [
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213956.png",
     "JAVA/Java Core/_Установка/Установка основных инструментов.md",
-    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213808.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments",
     "Intellij IDEA/Хоткеи.md",
@@ -227,7 +242,6 @@
     "JAVA/Литература.md",
     "New note.md",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143227.png",
-    "obsidian/MARKDOWN/__attachments/Pasted image 20241009143139.png",
-    "obsidian/MARKDOWN/Синтаксис.md"
+    "obsidian/MARKDOWN/__attachments/Pasted image 20241009143139.png"
   ]
 }
