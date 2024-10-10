@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/index.md",
+                "file": "MARKDOWN/Синтаксис.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/index.md",
+                "file": "MARKDOWN/Синтаксис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/index.md",
+                "file": "MARKDOWN/Синтаксис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/index.md"
+                "file": "MARKDOWN/Синтаксис.md"
               }
             }
           },
@@ -208,8 +208,11 @@
   },
   "active": "9a0c96173d27a0f8",
   "lastOpenFiles": [
+    "MARKDOWN/__Markdown.md",
+    "index.md",
+    "Intellij IDEA/__Intellij IDEA.md",
     "JAVA/__JAVA.md",
-    "JAVA/index.md",
+    "GIT/__GIT.md",
     "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
     "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
@@ -217,14 +220,12 @@
     "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "Intellij IDEA/__Intellij IDEA.md",
     "Intellij IDEA/Плагины.md",
     "Intellij IDEA/Настройки.md",
     "Intellij IDEA/Хоткеи.md",
     "Intellij IDEA/__attachments/checkstyle.xml",
     "Intellij IDEA/__attachments",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010232909.png",
-    "GIT/__GIT.md",
     "GIT/GitHub.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215216.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215105.png",
@@ -232,7 +233,6 @@
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213808.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments",
     "MARKDOWN/Синтаксис.md",
-    "MARKDOWN/__Markdown.md",
     "GIT/Без названия.md",
     "job4j_tracker/src/test/java/ru/job4j/tracker/TrackerTest.java",
     "job4j_tracker/src/test/java/ru/job4j/oop/TriangleTest.java",
