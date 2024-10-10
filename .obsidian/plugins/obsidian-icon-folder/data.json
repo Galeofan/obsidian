@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiCodeView",
       "RiMarkdownLine",
       "LiSendToBack",
       "LiGitFork",
-      "RiJavaFill",
-      "🐧"
+      "RiJavaFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,9 @@
   "MARKDOWN": {
     "iconName": "RiMarkdownLine",
     "iconColor": "#bc1010"
+  },
+  "Intellij IDEA": {
+    "iconName": "RiCodeView",
+    "iconColor": "#00a8f0"
   }
 }

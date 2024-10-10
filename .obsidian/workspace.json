@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "Intellij IDEA/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "Intellij IDEA/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "Intellij IDEA/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md"
+                "file": "Intellij IDEA/Без названия.md"
               }
             }
           },
@@ -183,12 +183,15 @@
   },
   "active": "fea68b79c72d8532",
   "lastOpenFiles": [
-    "JAVA/__JAVA.md",
-    "JAVA/Задачи.md",
     "JAVA/Java Core/_Установка/Установка.md",
+    "Intellij IDEA/Без названия.md",
+    "JAVA/__JAVA.md",
+    "Intellij IDEA",
+    "MARKDOWN/__Markdown.md",
+    "MARKDOWN/Синтаксис.md",
+    "JAVA/Задачи.md",
     "JAVA/Java Core/_Установка",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "MARKDOWN/Синтаксис.md",
     "JAVA/Java Core/_Установка",
     "JAVA/Java Core/Без названия",
     "JAVA/Java Core/Базовый синтаксис",
@@ -212,7 +215,6 @@
     "JAVA/Литература.md",
     "GIT",
     "DOCKER",
-    "MARKDOWN/__attachments",
     "New note.md",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143227.png",
     "obsidian/MARKDOWN/__attachments/Pasted image 20241009143139.png",
@@ -225,7 +227,6 @@
     "obsidian/JAVA/Без названия.md",
     "obsidian/GIT/Без названия.md",
     "obsidian/MARKDOWN/Без названия 2.md",
-    "obsidian/README.md",
-    "Synced/obsidian/README.md"
+    "obsidian/README.md"
   ]
 }
