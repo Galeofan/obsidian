@@ -2,7 +2,7 @@
 tags: 
 links: https://gitforwindows.org/
 ---
-### Связи
+## Связи
 [GitHub](GIT/GitHub.md)
 
 ---
