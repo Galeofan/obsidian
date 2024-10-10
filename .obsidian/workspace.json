@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JVM.md",
+                "file": "Intellij IDEA/Плагины.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JVM.md",
+                "file": "Intellij IDEA/Плагины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JVM.md",
+                "file": "Intellij IDEA/Плагины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/JVM.md"
+                "file": "Intellij IDEA/Плагины.md"
               }
             }
           },
@@ -196,17 +196,18 @@
   },
   "active": "dcfc91ed1c49b2ad",
   "lastOpenFiles": [
+    "Intellij IDEA/Настройки.md",
+    "Intellij IDEA/Плагины.md",
+    "Intellij IDEA/__Intellij IDEA.md",
+    "Intellij IDEA/Хоткеи.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
-    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010232909.png",
-    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
-    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "GIT/__GIT.md",
-    "Intellij IDEA/Хоткеи.md",
-    "Intellij IDEA/Настройки.md",
-    "Intellij IDEA/__Intellij IDEA.md",
     "GIT/GitHub.md",
     "JAVA/Java Core/_Установка/Установка основных инструментов.md",
     "JAVA/__JAVA.md",
