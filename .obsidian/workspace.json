@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JAVA/Java Core/_Установка/Установка.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -183,11 +183,11 @@
   },
   "active": "3628f70beed1333a",
   "lastOpenFiles": [
-    "Intellij IDEA/Intellij IDEA.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/Java Core/_Установка/Установка.md",
+    "Intellij IDEA/Intellij IDEA.md",
     "GIT/GIT.md",
     "MARKDOWN/Синтаксис.md",
-    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/__JAVA.md",
     "JAVA/Задачи.md",
     "Intellij IDEA",
