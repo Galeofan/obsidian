@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
+                "file": "JAVA/__JAVA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0c96173d27a0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
+                "file": "JAVA/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md",
+                "file": "JAVA/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Термины.md"
+                "file": "JAVA/index.md"
               }
             }
           },
@@ -194,16 +206,17 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "dcfc91ed1c49b2ad",
+  "active": "9a0c96173d27a0f8",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
-    "JAVA/Java Core/Базовый синтаксис/JVM.md",
-    "JAVA/Java Core/Базовый синтаксис/Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
-    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/__JAVA.md",
+    "JAVA/index.md",
+    "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
+    "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/JVM.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "Intellij IDEA/__Intellij IDEA.md",
     "Intellij IDEA/Плагины.md",
     "Intellij IDEA/Настройки.md",
