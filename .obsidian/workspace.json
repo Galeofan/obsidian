@@ -26,49 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "JAVA/__JAVA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a0c96173d27a0f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f9898845fa870d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCKER/__DOCKER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d8e075d113407bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/__JAVA.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,15 +194,19 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "3d8e075d113407bf",
+  "active": "dcfc91ed1c49b2ad",
   "lastOpenFiles": [
     "index.md",
-    "LINUX/__LINUX.md",
+    "JAVA/__JAVA.md",
     "DOCKER/__DOCKER.md",
+    "JAVA/Идеи проектов.md",
+    "JAVA/Литература.md",
+    "JAVA/Курсы.md",
+    "JAVA/Задачи.md",
+    "LINUX/__LINUX.md",
     "MARKDOWN/__Markdown.md",
     "MARKDOWN/Синтаксис.md",
     "Intellij IDEA/__Intellij IDEA.md",
-    "JAVA/__JAVA.md",
     "GIT/__GIT.md",
     "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
@@ -269,11 +237,7 @@
     "job4j_tracker/src/main/java/ru/job4j/oop/Wolf.java",
     "job4j_tracker/README.md",
     "-job4j_elementary/README.md",
-    "JAVA/Задачи.md",
-    "JAVA/Курсы.md",
-    "README.md",
     "MARKDOWN/Untitled Diagram.svg",
-    "Drawing 2024-10-09 22.58.10.excalidraw.md",
     "Untitled Diagram.svg",
     "MARKDOWN/Untitled Diagram 1.svg",
     "Без названия.canvas",
