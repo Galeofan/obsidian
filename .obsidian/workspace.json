@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 397.5
   },
   "right": {
     "id": "3261ccd61d831501",
@@ -196,11 +196,13 @@
   },
   "active": "dcfc91ed1c49b2ad",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/JVM.md",
+    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
+    "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010232909.png",
     "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "GIT/__GIT.md",
     "Intellij IDEA/Хоткеи.md",
     "Intellij IDEA/Настройки.md",
@@ -239,9 +241,6 @@
     "Без названия.canvas",
     "MARKDOWN/__attachments/Pasted image 20241009143227.png",
     "MARKDOWN/__attachments/Pasted image 20241009143139.png",
-    "LINUX/Без названия.md",
-    "LINUX/__attachments/Pasted image 20241009215510.png",
-    "JAVA/Идеи проектов.md",
-    "JAVA/Литература.md"
+    "LINUX/Без названия.md"
   ]
 }
