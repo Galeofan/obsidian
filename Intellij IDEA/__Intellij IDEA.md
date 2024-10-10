@@ -4,6 +4,7 @@ link: https://www.jetbrains.com/idea/download/?section=windows
 ---
 ### Связи
 [Хоткеи](Intellij%20IDEA/Хоткеи.md)
+[Настройки](Intellij%20IDEA/Настройки.md)
 
 ---
 
