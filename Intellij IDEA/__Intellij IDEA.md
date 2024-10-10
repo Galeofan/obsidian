@@ -3,9 +3,10 @@ tags:
   - Idea
 links: https://www.jetbrains.com/idea/download/?section=windows
 ---
-### Связи
+## Связи
 [Хоткеи](INTELLIJ%20IDEA/Хоткеи.md)
 [Настройки](INTELLIJ%20IDEA/Настройки.md)
+[Плагины](INTELLIJ%20IDEA/Плагины.md)
 
 ---
 
