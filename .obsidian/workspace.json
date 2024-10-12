@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Типы данных.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "f810e389b5b66e7a"
+          }
+        ]
+      },
+      {
+        "id": "8911f7955589533f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f29797fd156397c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "f810e389b5b66e7a"
           }
         ]
       }
@@ -86,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Типы данных.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Типы данных.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Типы данных.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md"
               }
             }
           },
@@ -183,21 +226,21 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/Типы данных.md",
-    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
-    "JAVA/Java Core/Базовый синтаксис/JVM.md",
+    "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "JAVA/__JAVA.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "INTELLIJ IDEA/Настройки.md",
+    "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
+    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "INTELLIJ IDEA/Настройки.md",
     "INDEX.md",
     "JAVA/Литература.md",
     "JAVA/Курсы.md",
     "JAVA/Идеи проектов.md",
     "JAVA/Задачи.md",
-    "JAVA/__JAVA.md",
     "MARKDOWN/__Markdown.md",
     "LINUX/__LINUX.md",
     "INTELLIJ IDEA/__Intellij IDEA.md",
