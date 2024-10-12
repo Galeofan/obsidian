@@ -11,12 +11,8 @@
             "id": "47e9114e2d19af01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "868f43a8a127a2a6"
           }
@@ -32,7 +28,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
+                "file": "JAVA/__JAVA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/6. Методы.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,19 +218,19 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
+    "JAVA/__JAVA.md",
+    "INDEX.md",
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
-    "JAVA/__JAVA.md",
     "JAVA/Java Core/Базовый синтаксис/6. Типы данных.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "INTELLIJ IDEA/Настройки.md",
-    "INDEX.md",
     "JAVA/Литература.md",
     "JAVA/Курсы.md",
     "JAVA/Идеи проектов.md",
