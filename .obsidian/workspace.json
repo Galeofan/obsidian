@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Переменные.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Переменные.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Переменные.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Переменные.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md"
               }
             }
           },
@@ -183,12 +183,13 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/Переменные.md",
-    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
-    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/Типы данных.md",
+    "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/Методы.md",
+    "JAVA/Java Core/Базовый синтаксис/Переменные.md",
     "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
     "JAVA/__JAVA.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
@@ -217,7 +218,6 @@
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213956.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213808.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments",
-    "GIT/Без названия.md",
     "job4j_tracker/src/test/java/ru/job4j/tracker/TrackerTest.java",
     "job4j_tracker/src/test/java/ru/job4j/oop/TriangleTest.java",
     "job4j_tracker/src/test/java/ru/job4j/oop/BatteryTest.java",
