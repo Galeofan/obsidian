@@ -55,7 +55,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.401982897776103,
                   "close": false
                 }
               }
@@ -226,15 +226,15 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
+    "JAVA/__JAVA.md",
     "JAVA/Java Core/Базовый синтаксис/Типы данных.md",
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
-    "JAVA/__JAVA.md",
-    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
-    "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
-    "JAVA/Java Core/Базовый синтаксис/Процесс компиляции и запуска программы.md",
-    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
     "INTELLIJ IDEA/Настройки.md",
     "INDEX.md",
     "JAVA/Литература.md",
