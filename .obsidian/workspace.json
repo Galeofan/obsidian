@@ -159,12 +159,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +180,7 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "47e9114e2d19af01",
+  "active": "631bbf3be52232a4",
   "lastOpenFiles": [
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
     "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
