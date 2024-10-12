@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Методы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "868f43a8a127a2a6"
+          }
+        ]
+      },
+      {
+        "id": "92c3b2026ba9c147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "292a144b09d8fd54",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "868f43a8a127a2a6"
           }
         ]
       }
@@ -86,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Методы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Методы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Методы.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md"
               }
             }
           },
@@ -183,14 +226,14 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
-    "JAVA/Java Core/Базовый синтаксис/Методы.md",
-    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
+    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
+    "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
     "JAVA/__JAVA.md",
+    "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/6. Типы данных.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
