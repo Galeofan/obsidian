@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, вспомогательные классы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 446.5
   },
   "right": {
     "id": "3261ccd61d831501",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, вспомогательные классы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, вспомогательные классы.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, вспомогательные классы.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md"
               }
             }
           },
@@ -181,14 +181,14 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "47e9114e2d19af01",
+  "active": "45d9f93dba16dcfb",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
+    "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
-    "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, вспомогательные классы.md",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/__JAVA.md",
     "INDEX.md",
