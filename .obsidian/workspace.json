@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d8b59177fc93c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/Микротемы/Символы и их особенности.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Микротемы/Символы и их особенности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Микротемы/Символы и их особенности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/5. Переменные.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/Микротемы/Символы и их особенности.md"
               }
             }
           },
@@ -181,24 +194,25 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "45d9f93dba16dcfb",
+  "active": "f2d8b59177fc93c3",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/Без названия",
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
+    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
+    "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
+    "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
     "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
+    "JAVA/Java Core/Базовый синтаксис/Микротемы/Символы и их особенности.md",
+    "JAVA/Java Core/Базовый синтаксис/Микротемы",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013133154.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215216.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213808.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213956.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010232909.png",
-    "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
-    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
-    "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/__JAVA.md",
     "INDEX.md",
-    "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/6. Типы данных.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
@@ -225,7 +239,6 @@
     "job4j_tracker/src/main/java/ru/job4j/tracker/Tracker.java",
     "job4j_tracker/src/main/java/ru/job4j/tracker/StartUI.java",
     "job4j_tracker/src/main/java/ru/job4j/tracker/Item.java",
-    "job4j_tracker/src/main/java/ru/job4j/oop/Wolf.java",
     "MARKDOWN/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "MARKDOWN/Untitled Diagram 1.svg",
