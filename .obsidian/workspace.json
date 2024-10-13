@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
+                "file": "INTELLIJ IDEA/Хоткеи.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "459ef63a528d9f5d"
-          }
-        ]
-      },
-      {
-        "id": "5acf5980c7f1bef0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a03349eeb9e2cc5e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "459ef63a528d9f5d"
+            }
           }
         ]
       }
@@ -129,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
+                "file": "INTELLIJ IDEA/Хоткеи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
+                "file": "INTELLIJ IDEA/Хоткеи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md"
+                "file": "INTELLIJ IDEA/Хоткеи.md"
               }
             }
           },
@@ -226,16 +183,17 @@
   },
   "active": "f43c524b6ef408b4",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
+    "INTELLIJ IDEA/Хоткеи.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/__Тестирование.md",
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/__JAVA.md",
+    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование",
     "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
     "JAVA/Java Core/Базовый синтаксис/Дополнительные темы/__Дополнительные темы.md",
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013153923.png",
@@ -259,7 +217,6 @@
     "JAVA/Идеи проектов.md",
     "JAVA/Задачи.md",
     "MARKDOWN/__Markdown.md",
-    "LINUX/__LINUX.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
