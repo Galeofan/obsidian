@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "f43c524b6ef408b4",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/__Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Символы и их особенности.md",
