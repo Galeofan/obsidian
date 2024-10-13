@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/__JAVA.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/__JAVA.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/__JAVA.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/__JAVA.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "f43c524b6ef408b4",
   "lastOpenFiles": [
+    "JAVA/__JAVA.md",
     "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
     "INTELLIJ IDEA/Хоткеи.md",
@@ -192,7 +193,6 @@
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
-    "JAVA/__JAVA.md",
     "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование",
