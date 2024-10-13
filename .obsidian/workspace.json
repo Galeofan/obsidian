@@ -11,8 +11,12 @@
             "id": "47e9114e2d19af01",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "868f43a8a127a2a6"
           }
@@ -28,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JAVA/__JAVA.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы.md"
+              }
             }
           },
           {
@@ -218,9 +226,10 @@
   },
   "active": "47e9114e2d19af01",
   "lastOpenFiles": [
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
+    "JAVA/Java Core/Базовый синтаксис/_Операторы.md",
     "JAVA/__JAVA.md",
     "INDEX.md",
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
@@ -244,7 +253,6 @@
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/Хоткеи.md",
     "INTELLIJ IDEA/Плагины.md",
-    "MARKDOWN/Синтаксис.md",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010232909.png",
