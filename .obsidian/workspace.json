@@ -55,7 +55,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.0000000000000013,
                   "close": true
                 }
               }
@@ -224,7 +224,7 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "631bbf3be52232a4",
+  "active": "292a144b09d8fd54",
   "lastOpenFiles": [
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
