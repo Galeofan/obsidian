@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "junit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md"
               }
             }
           },
@@ -181,18 +180,19 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "f43c524b6ef408b4",
+  "active": "5feae4bc9cf4bcaf",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
+    "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
+    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/__Тестирование.md",
     "JAVA/__JAVA.md",
     "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
     "INTELLIJ IDEA/Хоткеи.md",
-    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
-    "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование",
@@ -200,7 +200,6 @@
     "JAVA/Java Core/Базовый синтаксис/Дополнительные темы/__Дополнительные темы.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013153923.png",
     "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Символы и их особенности.md",
-    "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/Отдельные темы",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013133154.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215216.png",
