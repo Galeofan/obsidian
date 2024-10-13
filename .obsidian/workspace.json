@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Подтемы/Символы и их особенности.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Подтемы/Символы и их особенности.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Подтемы/Символы и их особенности.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/Подтемы/Символы и их особенности.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/_Термины.md"
               }
             }
           },
@@ -196,17 +196,17 @@
   },
   "active": "f2d8b59177fc93c3",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/Подтемы/Символы и их особенности.md",
+    "JAVA/Java Core/Базовый синтаксис/Дополнительные темы/Символы и их особенности.md",
+    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
+    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
-    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
+    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
     "JAVA/__JAVA.md",
-    "JAVA/Java Core/Базовый синтаксис/Подтемы",
+    "JAVA/Java Core/Базовый синтаксис/Дополнительные темы",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013133154.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215216.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213808.png",
