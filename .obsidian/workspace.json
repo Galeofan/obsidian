@@ -4,35 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "1817e6294a221eed",
+        "id": "ef3b8331721e3658",
         "type": "tabs",
         "children": [
           {
-            "id": "47e9114e2d19af01",
+            "id": "f43c524b6ef408b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
+                "file": "JAVA/__JAVA.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f2d8b59177fc93c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "459ef63a528d9f5d"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "3f82d93ca04edc34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c148d70634401c9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "JAVA/__JAVA.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "459ef63a528d9f5d"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
+                "file": "JAVA/__JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
+                "file": "JAVA/__JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md"
+                "file": "JAVA/__JAVA.md"
               }
             }
           },
@@ -194,17 +224,21 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "f2d8b59177fc93c3",
+  "active": "5c148d70634401c9",
   "lastOpenFiles": [
     "JAVA/__JAVA.md",
+    "JAVA/Java Core/Базовый синтаксис/Тестирование/__Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
+    "JAVA/Java Core/Базовый синтаксис/Тестирование.md",
+    "JAVA/Java Core/Базовый синтаксис/Тестирование",
+    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
+    "JAVA/Java Core/Базовый синтаксис/Дополнительные темы/__Дополнительные темы.md",
     "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013153923.png",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/Java Core/Базовый синтаксис/Дополнительные темы/Символы и их особенности.md",
-    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова, служебные классы.md",
@@ -226,8 +260,6 @@
     "MARKDOWN/__Markdown.md",
     "LINUX/__LINUX.md",
     "INTELLIJ IDEA/__Intellij IDEA.md",
-    "GIT/__GIT.md",
-    "DOCKER/__DOCKER.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
@@ -238,7 +270,6 @@
     "job4j_tracker/src/test/java/ru/job4j/oop/BatteryTest.java",
     "job4j_tracker/src/main/java/ru/job4j/tracker/Tracker.java",
     "job4j_tracker/src/main/java/ru/job4j/tracker/StartUI.java",
-    "job4j_tracker/src/main/java/ru/job4j/tracker/Item.java",
     "MARKDOWN/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "Без названия.canvas"
