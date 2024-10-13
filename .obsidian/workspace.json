@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md"
+                "file": "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md"
               }
             }
           },
@@ -183,23 +183,28 @@
   },
   "active": "f43c524b6ef408b4",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/Java Core/Базовый синтаксис/_Библиотеки.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
+    "INTELLIJ IDEA/Хоткеи.md",
+    "INTELLIJ IDEA/Плагины.md",
+    "INTELLIJ IDEA/Настройки.md",
+    "INTELLIJ IDEA/__Intellij IDEA.md",
+    "MARKDOWN/Синтаксис.md",
+    "MARKDOWN/__Markdown.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование/__Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Символы и их особенности.md",
+    "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова.md",
+    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
     "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
+    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
     "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
-    "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова.md",
     "JAVA/__JAVA.md",
-    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
-    "INTELLIJ IDEA/Хоткеи.md",
     "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование.md",
     "JAVA/Java Core/Базовый синтаксис/Тестирование",
-    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
     "JAVA/Java Core/Базовый синтаксис/Дополнительные темы/__Дополнительные темы.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013153923.png",
     "JAVA/Java Core/Базовый синтаксис/Отдельные темы",
@@ -212,11 +217,6 @@
     "JAVA/Java Core/Базовый синтаксис/6. Типы данных.md",
     "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "JAVA/Java Core/Базовый синтаксис/JDK.md",
-    "INTELLIJ IDEA/Настройки.md",
-    "JAVA/Литература.md",
-    "JAVA/Курсы.md",
-    "JAVA/Идеи проектов.md",
-    "JAVA/Задачи.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
