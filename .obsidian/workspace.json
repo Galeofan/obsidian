@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,16 +224,16 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "47e9114e2d19af01",
+  "active": "631bbf3be52232a4",
   "lastOpenFiles": [
+    "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
+    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
+    "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
     "JAVA/Java Core/Базовый синтаксис/_Операторы и классы.md",
     "JAVA/Java Core/Базовый синтаксис/_Термины.md",
-    "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
     "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
     "JAVA/__JAVA.md",
     "INDEX.md",
-    "JAVA/Java Core/Базовый синтаксис/5. Переменные.md",
-    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
     "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
     "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
     "JAVA/Java Core/Базовый синтаксис/6. Типы данных.md",
