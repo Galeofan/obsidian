@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSidebar",
       "👆",
       "RiCodeView",
       "RiMarkdownLine",
-      "LiSendToBack",
-      "LiGitFork"
+      "LiSendToBack"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,8 +51,8 @@
     "iconColor": "#bc1010"
   },
   "INTELLIJ IDEA": {
-    "iconName": "RiCodeView",
-    "iconColor": "#00a8f0"
+    "iconName": "LiSidebar",
+    "iconColor": "#01a1ad"
   },
   "INDEX.md": "👆"
 }
