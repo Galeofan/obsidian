@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef3b8331721e3658",
+        "id": "44b1b11d52ab10f7",
         "type": "tabs",
         "children": [
           {
-            "id": "f43c524b6ef408b4",
+            "id": "72aecf06eaede9aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Ветвление (if).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Ветвление (if).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Ветвление (if).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVA/Java Core/Базовый синтаксис/7. Ветвление (if).md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -181,32 +173,40 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "f43c524b6ef408b4",
+  "active": "72aecf06eaede9aa",
   "lastOpenFiles": [
-    "JAVA/Java Core/Базовый синтаксис/6. Методы.md",
-    "JAVA/Java Core/Базовый синтаксис/4. Правила оформления кода.md",
-    "JAVA/Java Core/Базовый синтаксис/7. Ветвление (if).md",
-    "JAVA/Java Core/Базовый синтаксис/_Операторы, ключевые слова.md",
-    "JAVA/Java Core/Базовый синтаксис/_Библиотеки, фреймворки.md",
-    "JAVA/Java Core/Базовый синтаксис/Тестирование/Модульные тесты.md",
-    "JAVA/Java Core/Базовый синтаксис/1. Установка основных инструментов.md",
-    "JAVA/Java Core/Базовый синтаксис/_Термины.md",
-    "INTELLIJ IDEA/Хоткеи.md",
-    "INTELLIJ IDEA/Плагины.md",
-    "INTELLIJ IDEA/Настройки.md",
-    "INTELLIJ IDEA/__Intellij IDEA.md",
-    "MARKDOWN/Синтаксис.md",
-    "MARKDOWN/__Markdown.md",
-    "JAVA/Java Core/Базовый синтаксис/Тестирование/__Тестирование.md",
-    "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Символы и их особенности.md",
-    "JAVA/Java Core/Базовый синтаксис/5. Переменные и преобразование типов.md",
-    "JAVA/Java Core/Базовый синтаксис/3. Структура проекта и программы.md",
-    "JAVA/Java Core/Базовый синтаксис/2. Процесс компиляции и запуска программы.md",
-    "JAVA/__JAVA.md",
-    "JAVA/Java Core/Базовый синтаксис/7. Тестирование.md",
-    "JAVA/Java Core/Базовый синтаксис/Тестирование.md",
+    "INTELLIJ IDEA/Фишки.md",
+    "Конструктор.md",
+    "JAVA/Java Core/Базовый синтаксис/Термины.md",
+    "JAVA/Java Core/Базовый синтаксис/JDK.md",
+    "Алгоритмы/Перевернуть массив.md",
+    "JAVA/Java Core/Базовый синтаксис/8. Циклы.md",
+    "JAVA/Java Core/Базовый синтаксис/JVM.md",
+    "Алгоритмы/Обход массива с последнего элемента.md",
+    "JAVA/Java Core/Базовый синтаксис/9. Массивы.md",
+    "JAVA/Java Core/Базовый синтаксис/__Живые шаблоны.md",
+    "JAVA/Java Core/Базовый синтаксис/7. Ветвление.md",
+    "JAVA/Java Core/Базовый синтаксис/Правила оформления кода.md",
+    "JAVA/Java Core/ООП/Классы и объекты/4. Конструктор.md",
+    "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Maven.md",
+    "JAVA/Java Core/ООП/Классы и объекты/2. Создание объекта.md",
+    "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Debug.md",
+    "JAVA/Java Core/ООП/Классы и объекты/7. Перегрузка методов.md",
+    "JAVA/Java Core/ООП/Классы и объекты/3. Вызов метода объекта.md",
+    "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Псевдокод.md",
+    "JAVA/Java Core/ООП/Классы и объекты/Парадигмы ООП/Абстракция.md",
+    "JAVA/Java Core/ООП/Классы и объекты/1. ООП. Классы и объекты.md",
+    "JAVA/Java Core/ООП/Классы и объекты/Парадигмы ООП/Наследование.md",
+    "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
+    "JAVA/Java Core/ООП/Классы и объекты/9. Зона видимости переменных.md",
+    "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
+    "JAVA/Java Core/ООП/Классы и объекты/Сущности ООП/Вложенные классы.md",
+    "JAVA/Java Core/ООП/Классы и объекты/Сущности ООП",
+    "JAVA/Java Core/ООП/Классы и объекты/Парадигмы ООП",
+    "JAVA/Java Core/ООП/Классы и объекты",
+    "JAVA/Java Core/ООП",
+    "Алгоритмы",
     "JAVA/Java Core/Базовый синтаксис/Тестирование",
-    "JAVA/Java Core/Базовый синтаксис/Дополнительные темы/__Дополнительные темы.md",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013153923.png",
     "JAVA/Java Core/Базовый синтаксис/Отдельные темы",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241013133154.png",
@@ -214,19 +214,11 @@
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213808.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010213956.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010232909.png",
-    "INDEX.md",
-    "JAVA/Java Core/Базовый синтаксис/6. Типы данных.md",
-    "JAVA/Java Core/Базовый синтаксис/JVM.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
     "JAVA/Java Core/Базовый синтаксис/__attachments/Pasted image 20241010215105.png",
     "JAVA/Java Core/Базовый синтаксис/__attachments",
-    "job4j_tracker/src/test/java/ru/job4j/tracker/TrackerTest.java",
-    "job4j_tracker/src/test/java/ru/job4j/oop/TriangleTest.java",
-    "job4j_tracker/src/test/java/ru/job4j/oop/BatteryTest.java",
-    "job4j_tracker/src/main/java/ru/job4j/tracker/Tracker.java",
-    "job4j_tracker/src/main/java/ru/job4j/tracker/StartUI.java",
     "MARKDOWN/Untitled Diagram.svg",
     "Untitled Diagram.svg",
     "Без названия.canvas"
