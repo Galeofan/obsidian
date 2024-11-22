@@ -11,8 +11,14 @@
             "id": "72aecf06eaede9aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Java Core/ООП/Классы и объекты/1. ООП. Классы и объекты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. ООП. Классы и объекты"
             }
           }
         ]
@@ -40,7 +46,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -48,7 +56,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           },
           {
@@ -58,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           }
         ],
@@ -82,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA/Java Core/ООП/Классы и объекты/1. ООП. Классы и объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 1. ООП. Классы и объекты"
             }
           },
           {
@@ -98,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA/Java Core/ООП/Классы и объекты/1. ООП. Классы и объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 1. ООП. Классы и объекты"
             }
           },
           {
@@ -111,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -119,7 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA/Java Core/ООП/Классы и объекты/1. ООП. Классы и объекты.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 1. ООП. Классы и объекты"
             }
           },
           {
@@ -127,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -139,7 +165,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           },
           {
@@ -147,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -175,6 +205,8 @@
   },
   "active": "72aecf06eaede9aa",
   "lastOpenFiles": [
+    "JAVA/Java Core/ООП/Классы и объекты/Парадигмы ООП/Наследование.md",
+    "JAVA/Java Core/ООП/Классы и объекты/Парадигмы ООП/Абстракция.md",
     "INTELLIJ IDEA/Фишки.md",
     "Конструктор.md",
     "JAVA/Java Core/Базовый синтаксис/Термины.md",
@@ -194,9 +226,7 @@
     "JAVA/Java Core/ООП/Классы и объекты/7. Перегрузка методов.md",
     "JAVA/Java Core/ООП/Классы и объекты/3. Вызов метода объекта.md",
     "JAVA/Java Core/Базовый синтаксис/Отдельные темы/Псевдокод.md",
-    "JAVA/Java Core/ООП/Классы и объекты/Парадигмы ООП/Абстракция.md",
     "JAVA/Java Core/ООП/Классы и объекты/1. ООП. Классы и объекты.md",
-    "JAVA/Java Core/ООП/Классы и объекты/Парадигмы ООП/Наследование.md",
     "JAVA/Java Core/Базовый синтаксис/Структура проекта и программы.md",
     "JAVA/Java Core/ООП/Классы и объекты/9. Зона видимости переменных.md",
     "JAVA/Java Core/Базовый синтаксис/Установка основных инструментов.md",
