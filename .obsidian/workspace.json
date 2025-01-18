@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
+                "file": "JAVA/Java Core/3. Коллекции. Введение/3. List, Очередь с приоритетом на LinkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Экзамен"
+              "title": "3. List, Очередь с приоритетом на LinkedList"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "72aecf06eaede9aa",
   "lastOpenFiles": [
-    "JAVA/Java Core/2. ООП/Экзамен.md",
+    "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
+    "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
     "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
+    "JAVA/Java Core/2. ООП/Экзамен.md",
     "INTELLIJ IDEA/Хоткеи.md",
     "JAVA/Java Core/2. ООП/Сущности/Enum.md",
     "JAVA/Java Core/Отдельные темы/Maven.md",
@@ -229,8 +231,6 @@
     "JAVA/Java Core/_Библиотеки, фреймворки/java.time.md",
     "JAVA/Java Core/2. ООП/Проектирование/ООА_ООД_ООП.md",
     "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
-    "JAVA/Java Core/1. Базовый синтаксис/7. Ветвление.md",
-    "JAVA/Java Core/Отдельные темы/Форматирование строк.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
