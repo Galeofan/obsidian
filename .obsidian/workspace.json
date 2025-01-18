@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/3. Коллекции. Введение/3. List, Очередь с приоритетом на LinkedList.md",
+                "file": "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. List, Очередь с приоритетом на LinkedList"
+              "title": "Экзамен"
             }
           }
         ]
@@ -205,9 +205,14 @@
   },
   "active": "72aecf06eaede9aa",
   "lastOpenFiles": [
+    "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
+    "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
+    "JAVA/Java Core/3. Коллекции. Введение/8. PriorityQueue.md",
+    "JAVA/Java Core/3. Коллекции. Введение/7. Set, TreeSet.md",
+    "JAVA/Java Core/3. Коллекции. Введение/6. Map, Hashmap.md",
+    "JAVA/Java Core/3. Коллекции. Введение/3. List, Очередь с приоритетом на LinkedList.md",
     "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
     "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
-    "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
     "JAVA/Java Core/2. ООП/Экзамен.md",
     "INTELLIJ IDEA/Хоткеи.md",
     "JAVA/Java Core/2. ООП/Сущности/Enum.md",
@@ -226,11 +231,6 @@
     "JAVA/Java Core/1. Базовый синтаксис/6. Методы.md",
     "JAVA/Java Core/1. Базовый синтаксис/8. Циклы.md",
     "JAVA/Java Core/2. ООП/Сущности/Вложенные классы.md",
-    "JAVA/Java Core/1. Базовый синтаксис/9. Массивы.md",
-    "JAVA/Java Core/2. ООП/Сущности/Абстрактный класс.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/java.time.md",
-    "JAVA/Java Core/2. ООП/Проектирование/ООА_ООД_ООП.md",
-    "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
