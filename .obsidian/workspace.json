@@ -11,14 +11,10 @@
             "id": "72aecf06eaede9aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Экзамен"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -185,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +198,7 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "72aecf06eaede9aa",
+  "active": "97cc7921a0bfb337",
   "lastOpenFiles": [
     "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
     "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
