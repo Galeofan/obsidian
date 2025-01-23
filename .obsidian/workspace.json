@@ -11,10 +11,14 @@
             "id": "72aecf06eaede9aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "INTELLIJ IDEA/Плагины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Плагины"
             }
           }
         ]
@@ -181,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +202,7 @@
       "openapi-renderer:Open OpenAPI Entry View": false
     }
   },
-  "active": "97cc7921a0bfb337",
+  "active": "72aecf06eaede9aa",
   "lastOpenFiles": [
     "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
     "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
