@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WINDOWS/Хоткеи EXCEL.md",
+                "file": "Алгоритмы/Обход массива с последнего элемента.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хоткеи EXCEL"
+              "title": "Обход массива с последнего элемента"
             }
           }
         ]
@@ -205,9 +205,10 @@
   "active": "72aecf06eaede9aa",
   "lastOpenFiles": [
     "WINDOWS/Хоткеи + Команды CMD.md",
-    "WINDOWS/Хоткеи EXCEL.md",
+    "WINDOWS/Хоткеи Excel.md",
     "WINDOWS/Хоткеи Notepad++.md",
     "WINDOWS/Хоткеи Word.md",
+    "INTELLIJ IDEA/Хоткеи.md",
     "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
     "INTELLIJ IDEA/Плагины.md",
     "WINDOWS",
@@ -220,7 +221,6 @@
     "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
     "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
     "JAVA/Java Core/2. ООП/Экзамен.md",
-    "INTELLIJ IDEA/Хоткеи.md",
     "JAVA/Java Core/2. ООП/Сущности/Enum.md",
     "JAVA/Java Core/Отдельные темы/Maven.md",
     "JAVA/Java Core/Отдельные темы/Debug.md",
