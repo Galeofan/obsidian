@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WINDOWS/Хоткеи Notepad++.md",
+                "file": "WINDOWS/Хоткеи EXCEL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хоткеи Notepad++"
+              "title": "Хоткеи EXCEL"
             }
           }
         ]
@@ -204,9 +204,10 @@
   },
   "active": "72aecf06eaede9aa",
   "lastOpenFiles": [
-    "WINDOWS/Хоткеи Word.md",
+    "WINDOWS/Хоткеи + Команды CMD.md",
+    "WINDOWS/Хоткеи EXCEL.md",
     "WINDOWS/Хоткеи Notepad++.md",
-    "WINDOWS/Хоткеи.md",
+    "WINDOWS/Хоткеи Word.md",
     "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
     "INTELLIJ IDEA/Плагины.md",
     "WINDOWS",
@@ -230,7 +231,6 @@
     "JAVA/Java Core/2. ООП/Свойства/Полиморфизм.md",
     "JAVA/Java Core/2. ООП/Свойства/Наследование.md",
     "JAVA/Java Core/2. ООП/Свойства/Инкапсуляция.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/Enum.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
