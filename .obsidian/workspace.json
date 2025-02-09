@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2f925428f87dbc",
+        "id": "049a4e212af021aa",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa02913188dca0c",
+            "id": "25330c021ec3207f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/__JAVA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "__JAVA"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Файловый менеджер"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,11 +194,13 @@
       "command-palette:Открыть палитру команд": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "openapi-renderer:Open OpenAPI Entry View": false
+      "openapi-renderer:Open OpenAPI Entry View": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "aaa02913188dca0c",
+  "active": "97cc7921a0bfb337",
   "lastOpenFiles": [
+    "JAVA/__JAVA.md",
     "Алгоритмы/Обход массива с последнего элемента.md",
     "WINDOWS/Хоткеи + Команды CMD.md",
     "WINDOWS/Хоткеи Excel.md",
@@ -230,7 +227,6 @@
     "JAVA/Java Core/2. ООП/Сущности/Record.md",
     "JAVA/Java Core/2. ООП/Сущности/Интерфейсы.md",
     "JAVA/Java Core/2. ООП/Свойства/Полиморфизм.md",
-    "JAVA/Java Core/2. ООП/Свойства/Наследование.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
