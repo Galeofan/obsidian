@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +204,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "45d9f93dba16dcfb",
+  "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
     "JAVA/__JAVA.md",
     "Алгоритмы/Обход массива с последнего элемента.md",
