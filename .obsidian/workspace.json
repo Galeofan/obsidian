@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/Отдельные темы/Автоупаковка _автораспаковка.md",
+                "file": "JAVA/Java Core/4. FP, Lambda, Stream API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Автоупаковка _автораспаковка"
+              "title": "4. FP, Lambda, Stream API"
             }
           }
         ]
@@ -204,8 +204,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c68e2fad6ad05cb5",
+  "active": "45d9f93dba16dcfb",
   "lastOpenFiles": [
+    "JAVA/Java Core/Отдельные темы/Автоупаковка _автораспаковка.md",
+    "JAVA/Java Core/4. FP, Lambda, Stream API.md",
     "JAVA/__JAVA.md",
     "Алгоритмы/Обход массива с последнего элемента.md",
     "WINDOWS/Хоткеи + Команды CMD.md",
@@ -231,8 +233,6 @@
     "JAVA/Java Core/Отдельные темы/Псевдокод.md",
     "JAVA/Java Core/2. ООП/Свойства/Абстракция.md",
     "JAVA/Java Core/2. ООП/Сущности/Record.md",
-    "JAVA/Java Core/2. ООП/Сущности/Интерфейсы.md",
-    "JAVA/Java Core/2. ООП/Свойства/Полиморфизм.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
