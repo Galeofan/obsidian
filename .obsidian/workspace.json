@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
+                "file": "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Lambda"
+              "title": "2. Функциональный интерфейс"
             }
           }
         ]
@@ -206,11 +206,11 @@
   },
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
-    "Intellij IDEA/Хоткеи.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
-    "JAVA/Java Core/4. FP, Lambda, Stream API/Без названия.md",
-    "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
     "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
+    "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
+    "Intellij IDEA/Хоткеи.md",
+    "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
     "JAVA/Java Core/4. FP, Lambda, Stream API",
     "JAVA/Java Core/Отдельные темы/Автоупаковка _автораспаковка.md",
     "JAVA/__JAVA.md",
