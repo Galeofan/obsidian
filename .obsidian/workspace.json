@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intellij IDEA/Хоткеи.md",
+                "file": "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хоткеи"
+              "title": "1. Lambda"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
+    "Intellij IDEA/Хоткеи.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/Без названия.md",
     "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
@@ -233,7 +234,6 @@
     "JAVA/Java Core/Отдельные темы/Maven.md",
     "JAVA/Java Core/Отдельные темы/Debug.md",
     "JAVA/Java Core/Отдельные темы/Псевдокод.md",
-    "JAVA/Java Core/2. ООП/Свойства/Абстракция.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
