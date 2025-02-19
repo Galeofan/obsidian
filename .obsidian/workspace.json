@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
+                "file": "JAVA/Java Core/_Библиотеки, фреймворки/Function Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Lambda"
+              "title": "Function Interface"
             }
           }
         ]
@@ -207,11 +207,11 @@
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
+    "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/Function Interface.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/java.lang.Math.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/Enum.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/Collection Interface.md",
-    "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
     "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
     "Intellij IDEA/Хоткеи.md",
     "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
