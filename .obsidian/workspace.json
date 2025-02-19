@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/_Библиотеки, фреймворки/Function Interface.md",
+                "file": "JAVA/Java Core/_Библиотеки, фреймворки/Function Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function Interface"
+              "title": "Function Interfaces"
             }
           }
         ]
@@ -208,7 +208,7 @@
   "lastOpenFiles": [
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/Function Interface.md",
+    "JAVA/Java Core/_Библиотеки, фреймворки/Function Interfaces.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/java.lang.Math.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/Enum.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/Collection Interface.md",
