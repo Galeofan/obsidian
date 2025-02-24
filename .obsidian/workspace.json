@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/_Библиотеки, фреймворки/Spring/Без названия.md",
+                "file": "JAVA/_Библиотеки, фреймворки/Spring/Аннотации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Аннотации"
             }
           }
         ]
@@ -207,7 +207,7 @@
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
     "JAVA/_Библиотеки, фреймворки/Фреймворк JUnit 5.md",
-    "JAVA/_Библиотеки, фреймворки/Spring/Без названия.md",
+    "JAVA/_Библиотеки, фреймворки/Spring/Аннотации.md",
     "JAVA/_Библиотеки, фреймворки/Spring",
     "GIT/GitHub.md",
     "JAVA/Без названия.md",
