@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GitHub.md",
+                "file": "JAVA/_Библиотеки, фреймворки/Spring/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub"
+              "title": "Без названия"
             }
           }
         ]
@@ -206,15 +206,18 @@
   },
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
-    "JAVA/Без названия.md",
+    "JAVA/_Библиотеки, фреймворки/Фреймворк JUnit 5.md",
+    "JAVA/_Библиотеки, фреймворки/Spring/Без названия.md",
+    "JAVA/_Библиотеки, фреймворки/Spring",
     "GIT/GitHub.md",
+    "JAVA/Без названия.md",
     "GIT/__GIT.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/Function Interfaces.md",
+    "JAVA/_Библиотеки, фреймворки/Function Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/java.lang.Math.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/Enum.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/Collection Interface.md",
+    "JAVA/_Библиотеки, фреймворки/java.lang.Math.md",
+    "JAVA/_Библиотеки, фреймворки/Enum.md",
+    "JAVA/_Библиотеки, фреймворки/Collection Interface.md",
     "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
     "Intellij IDEA/Хоткеи.md",
     "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
@@ -232,8 +235,6 @@
     "WINDOWS",
     "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
     "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
-    "JAVA/Java Core/3. Коллекции. Введение/8. PriorityQueue.md",
-    "JAVA/Java Core/3. Коллекции. Введение/7. Set, TreeSet.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
@@ -251,7 +252,6 @@
     "JAVA/Java Core/2. ООП/Классы и объекты",
     "JAVA/Java Core/1. Базовый синтаксис/Тестирование",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments",
-    "JAVA/Java Core/2. ООП",
     "Без названия.canvas"
   ]
 }
