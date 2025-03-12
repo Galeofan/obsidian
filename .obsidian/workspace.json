@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/_Библиотеки, фреймворки/Lombok/Аннотации.md",
+                "file": "JAVA/_Библиотеки, фреймворки/Описание библиотек.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аннотации"
+              "title": "Описание библиотек"
             }
           }
         ]
@@ -206,9 +206,10 @@
   },
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
+    "JAVA/_Библиотеки, фреймворки/Lombok/Аннотации.md",
+    "JAVA/_Библиотеки, фреймворки/Описание библиотек.md",
     "JAVA/_Библиотеки, фреймворки/Spring/Аннотации.md",
     "Intellij IDEA/Хоткеи.md",
-    "JAVA/_Библиотеки, фреймворки/Lombok/Аннотации.md",
     "JAVA/_Библиотеки, фреймворки/Lombok",
     "JAVA/_Библиотеки, фреймворки/Фреймворк JUnit 5.md",
     "JAVA/_Библиотеки, фреймворки/Spring",
@@ -235,7 +236,6 @@
     "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
     "INTELLIJ IDEA/Плагины.md",
     "WINDOWS",
-    "JAVA/Java Core/3. Коллекции. Введение/Экзамен.md",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskPreview.png",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource 1.png",
