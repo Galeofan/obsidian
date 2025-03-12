@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
+                "file": "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Set, HashSet, Iterator."
+              "title": "Functional Interfaces"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
+    "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
     "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/_Библиотеки, фреймворки/Описание библиотек.md",
@@ -233,7 +234,6 @@
     "WINDOWS/Хоткеи Notepad++.md",
     "WINDOWS/Хоткеи Word.md",
     "INTELLIJ IDEA/Хоткеи.md",
-    "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
     "INTELLIJ IDEA/Плагины.md",
     "WINDOWS",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",

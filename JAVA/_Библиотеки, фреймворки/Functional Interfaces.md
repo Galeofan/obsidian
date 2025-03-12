@@ -16,3 +16,14 @@ for (String string : strings) {
 }
 ```
 ##### 2. Consumer и BiConsumer
+Consumer (потребитель) используется в том случае, если нам нужно применить какое-то действие или операцию к параметру (для BiConsumer два параметра) и при этом у метода нет возвращаемого значения. Объявляются эти интерфейсы следующим образом:
+```java
+@FunctionalInterface
+public interface Consumer<T> {
+    void accept(T t);
+}
+@FunctionalInterface
+public interface BiConsumer<T, U> {
+    void accept(T t, U u);
+}
+```
