@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
+                "file": "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functional Interfaces"
+              "title": "4. Set, HashSet, Iterator."
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
+    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/_Библиотеки, фреймворки/Описание библиотек.md",
     "JAVA/_Библиотеки, фреймворки/Lombok/Аннотации.md",
@@ -217,7 +218,6 @@
     "GIT/GitHub.md",
     "JAVA/Без названия.md",
     "GIT/__GIT.md",
-    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
     "JAVA/_Библиотеки, фреймворки/java.lang.Math.md",
     "JAVA/_Библиотеки, фреймворки/Enum.md",
