@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
+                "file": "JAVA/Java Core/2. ООП/Проектирование/2. Шаблон Декоратор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functional Interfaces"
+              "title": "2. Шаблон Декоратор"
             }
           }
         ]
@@ -206,6 +206,13 @@
   },
   "active": "c68e2fad6ad05cb5",
   "lastOpenFiles": [
+    "JAVA/Java Core/2. ООП/Проектирование/1. Шаблон Стратегия.md",
+    "JAVA/Java Core/2. ООП/Проектирование/3. Шаблон Singleton.md",
+    "JAVA/Java Core/2. ООП/Проектирование/4. Шаблон Фабричный метод.md",
+    "JAVA/Java Core/2. ООП/Классы и объекты/13. Порядок создания объекта.md",
+    "JAVA/Java Core/2. ООП/Проектирование/2. Шаблон Декоратор.md",
+    "JAVA/Java Core/2. ООП/Проектирование/ООА_ООД_ООП.md",
+    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "INTELLIJ IDEA/Хоткеи.md",
     "INTELLIJ IDEA/Фишки.md",
     "INTELLIJ IDEA/Плагины.md",
@@ -225,19 +232,12 @@
     "INTELLIJ IDEA/__attachments",
     "JAVA/Java Core/_Библиотеки, фреймворки",
     "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
-    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/_Библиотеки, фреймворки/Описание библиотек.md",
     "JAVA/_Библиотеки, фреймворки/Lombok/Аннотации.md",
     "JAVA/_Библиотеки, фреймворки/Spring/Аннотации.md",
-    "Intellij IDEA/Хоткеи.md",
     "JAVA/_Библиотеки, фреймворки/Lombok",
-    "JAVA/_Библиотеки, фреймворки/Фреймворк JUnit 5.md",
     "JAVA/_Библиотеки, фреймворки/Spring",
-    "GIT/GitHub.md",
-    "JAVA/Без названия.md",
-    "GIT/__GIT.md",
-    "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API",
     "WINDOWS",
     "JAVA/Java Core/1. Базовый синтаксис/__attachments/imageTaskSource.png",
