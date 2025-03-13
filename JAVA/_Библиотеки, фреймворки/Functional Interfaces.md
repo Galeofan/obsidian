@@ -27,3 +27,35 @@ public interface BiConsumer<T, U> {
     void accept(T t, U u);
 }
 ```
+Пример:
+```java
+List<String> list = List.of("one", "two", "three", "one", "two", "three");
+Supplier<Set<String>> supplier = () -> new HashSet<>(list);
+BiConsumer<Integer, String> consumer = (first, second) -> System.out.println(first + second);
+Set<String> strings = supplier.get();
+int i = 1;
+for (String string : strings) {
+    consumer.accept(i++, " is " + string);
+}
+Вывод: 
+1 is one
+2 is two
+3 is three
+```
+
+##### 3. Predicate (BiPredicate).
+Predicate (утверждение) наиболее часто применяется в фильтрах и сравнении и объявляются они следующим образом:
+```java
+@FunctionalInterface
+public interface Predicate<T> {
+
+    boolean test(T t);
+}
+@FunctionalInterface
+public interface BiPredicate<T, U> {
+
+    boolean test(T t, U u);
+}
+```
+Т.е. в метод test() передается один или два параметра, в зависимости от функционального интерфейса и возвращает логическое значение true или false.
+
