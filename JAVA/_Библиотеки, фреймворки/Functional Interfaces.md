@@ -58,4 +58,13 @@ public interface BiPredicate<T, U> {
 }
 ```
 Т.е. в метод test() передается один или два параметра, в зависимости от функционального интерфейса и возвращает логическое значение true или false.
+Пример:
+```java
+Predicate<String> predicate = string -> string.isEmpty();
+System.out.println("Строка пустая: " + predicate.test(""));
+System.out.println("Строка пустая: " + predicate.test("test"));
 
+Вывод:
+Строка пустая: true
+Строка пустая: false
+```
