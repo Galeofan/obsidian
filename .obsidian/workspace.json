@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intellij IDEA/__Intellij IDEA.md",
+                "file": "Intellij IDEA/Хоткеи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Intellij IDEA"
+              "title": "Хоткеи"
             }
           }
         ],
@@ -221,6 +221,7 @@
   },
   "active": "527b15a5b91f5e66",
   "lastOpenFiles": [
+    "Intellij IDEA/__Intellij IDEA.md",
     "JAVA/Java Core/2. ООП/Проектирование/1. Шаблон Стратегия.md",
     "JAVA/Java Core/2. ООП/Проектирование/3. Шаблон Singleton.md",
     "JAVA/Java Core/2. ООП/Проектирование/4. Шаблон Фабричный метод.md",
@@ -250,7 +251,6 @@
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/_Библиотеки, фреймворки/Описание библиотек.md",
     "JAVA/_Библиотеки, фреймворки/Lombok/Аннотации.md",
-    "JAVA/_Библиотеки, фреймворки/Spring/Аннотации.md",
     "JAVA/_Библиотеки, фреймворки/Lombok",
     "JAVA/_Библиотеки, фреймворки/Spring",
     "JAVA/Java Core/4. FP, Lambda, Stream API",
