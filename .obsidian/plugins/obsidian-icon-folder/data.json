@@ -49,10 +49,5 @@
   "MARKDOWN": {
     "iconName": "RiMarkdownLine",
     "iconColor": "#bc1010"
-  },
-  "INTELLIJ IDEA": {
-    "iconName": "LiSidebar",
-    "iconColor": "#01a1ad"
-  },
-  "INDEX.md": "👆"
+  }
 }
