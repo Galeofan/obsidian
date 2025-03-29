@@ -89,3 +89,11 @@ Function<String, Character> function = string -> string.charAt(2);
 System.out.println("Третий символ в строке: " + function.apply("first"));
 System.out.println("Третий символ в строке: " + function.apply("second"));
 ```
+##### 5. UnaryOperator и BinaryOperator.
+UnaryOperator и BinaryOperator – это разновидность Function, в которых входные и выходные обобщенные параметры должны совпадать:
+```java
+@FunctionalInterface
+public interface UnaryOperator<T> extends Function<T, T> {}
+@FunctionalInterface
+public interface BinaryOperator<T> extends BiFunction<T,T,T> {}
+```
