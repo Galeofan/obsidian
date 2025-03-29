@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Functional Interfaces"
             }
+          },
+          {
+            "id": "f299a0c14910bdc6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +214,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f90ed11781c6c4d2",
+  "active": "f299a0c14910bdc6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
     "JAVA/_Библиотеки, фреймворки/java.lang.String.md",
@@ -217,7 +229,6 @@
     "JAVA/Java Core/2. ООП/Классы и объекты/13. Порядок создания объекта.md",
     "JAVA/Java Core/2. ООП/Проектирование/2. Шаблон Декоратор.md",
     "JAVA/Java Core/2. ООП/Проектирование/ООА_ООД_ООП.md",
-    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "INTELLIJ IDEA/Хоткеи.md",
     "INTELLIJ IDEA/Фишки.md",
     "INTELLIJ IDEA/Плагины.md",
@@ -231,7 +242,6 @@
     "JAVA/Java Core/_Библиотеки, фреймворки/java.lang.String.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/java.util.Scanner.md",
     "JAVA/Java Core/_Библиотеки, фреймворки/java.util.Formatter.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/Collection Interface.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
