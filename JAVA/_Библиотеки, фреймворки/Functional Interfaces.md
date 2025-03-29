@@ -69,3 +69,23 @@ System.out.println("Строка пустая: " + predicate.test("test"));
 Строка пустая: false
 ```
 
+##### 4. Function (BiFunction)
+Function используется для преобразования входного параметра или двух параметров (для Bi-формы этого функционального интерфейса) в какое-либо значение, тип возвращаемого значения может не совпадать с типом входных параметров. Объявляются интерфейсы следующим образом:
+```java
+@FunctionalInterface
+public interface Function<T, R> {
+
+    R apply(T t);
+}
+@FunctionalInterface
+public interface BiFunction<T, U, R> {
+
+    R apply(T t, U u);
+}
+```
+Попробуем прочитать символ с определенным индексом в строке с помощью функционального интерфейса:
+```java
+Function<String, Character> function = string -> string.charAt(2);
+System.out.println("Третий символ в строке: " + function.apply("first"));
+System.out.println("Третий символ в строке: " + function.apply("second"));
+```
