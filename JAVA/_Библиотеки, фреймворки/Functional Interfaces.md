@@ -68,3 +68,4 @@ System.out.println("Строка пустая: " + predicate.test("test"));
 Строка пустая: true
 Строка пустая: false
 ```
+

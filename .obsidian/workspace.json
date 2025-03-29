@@ -25,10 +25,14 @@
             "id": "f299a0c14910bdc6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functional Interfaces"
             }
           }
         ],
@@ -216,10 +220,10 @@
   },
   "active": "f299a0c14910bdc6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
+    "conflict-files-obsidian-git.md",
+    "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
     "JAVA/_Библиотеки, фреймворки/java.lang.String.md",
     "Intellij IDEA/Хоткеи.md",
     "Intellij IDEA/__Intellij IDEA.md",
