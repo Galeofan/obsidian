@@ -97,3 +97,19 @@ public interface UnaryOperator<T> extends Function<T, T> {}
 @FunctionalInterface
 public interface BinaryOperator<T> extends BiFunction<T,T,T> {}
 ```
+Используем функциональный интерфейс UnaryOperator для того, чтобы перевернуть строку:
+```java
+UnaryOperator<StringBuilder> builder = b -> b.reverse();
+System.out.println("Строка после реверса: " + builder.apply(new StringBuilder("String for test")));
+System.out.println("Строка после реверса: " + builder.apply(new StringBuilder("tset rof gnirtS")));
+```
+Применение BinaryOperator рассмотрим на примере объединения двух строк:
+```java
+BinaryOperator<StringBuilder> builder = (first, second) -> first.append(" ").append(second);
+System.out.println(
+        "Строка после объединения: " + builder.apply(
+                new StringBuilder("First string"),
+                new StringBuilder("Second string")
+        )
+);
+```
