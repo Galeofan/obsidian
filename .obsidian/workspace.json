@@ -11,10 +11,14 @@
             "id": "f90ed11781c6c4d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Functional Interfaces"
             }
           }
         ]
@@ -200,8 +204,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "45d9f93dba16dcfb",
+  "active": "f90ed11781c6c4d2",
   "lastOpenFiles": [
+    "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
+    "JAVA/Java Core/4. FP, Lambda, Stream API/1. Lambda.md",
     "JAVA/_Библиотеки, фреймворки/java.lang.String.md",
     "Intellij IDEA/Хоткеи.md",
     "Intellij IDEA/__Intellij IDEA.md",
@@ -230,8 +236,6 @@
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
     "JAVA/Java Core/_Библиотеки, фреймворки",
-    "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
-    "JAVA/Java Core/4. FP, Lambda, Stream API/2. Функциональный интерфейс.md",
     "JAVA/_Библиотеки, фреймворки/Lombok",
     "JAVA/_Библиотеки, фреймворки/Spring",
     "JAVA/Java Core/4. FP, Lambda, Stream API",
