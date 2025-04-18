@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
+                "file": "JAVA/_Библиотеки, фреймворки/Spring/Аннотации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Интерфейс Collection"
+              "title": "Аннотации"
             }
           }
         ]
@@ -206,13 +206,13 @@
   },
   "active": "f90ed11781c6c4d2",
   "lastOpenFiles": [
+    "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
     "JAVA/Java Core/3. Коллекции. Введение/6. Map, Hashmap.md",
     "JAVA/Java Core/3. Коллекции. Введение/7. Set, TreeSet.md",
     "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
     "JAVA/Java Core/3. Коллекции. Введение/8. PriorityQueue.md",
     "JAVA/Java Core/3. Коллекции. Введение/4. Set, HashSet, Iterator..md",
     "JAVA/Java Core/3. Коллекции. Введение/2. List, ArrayList, Обобщения(Generics).md",
-    "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
     "JAVA/Java Core/3. Коллекции. Введение/3. List, Очередь с приоритетом на LinkedList.md",
     "JAVA/_Библиотеки, фреймворки/Lombok/Аннотации.md",
     "JAVA/_Библиотеки, фреймворки/Functional Interfaces.md",
