@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intellij IDEA/Хоткеи.md",
+                "file": "JAVA/_Библиотеки/Functional Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хоткеи"
+              "title": "Functional Interfaces"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "f90ed11781c6c4d2",
   "lastOpenFiles": [
+    "Intellij IDEA/Хоткеи.md",
     "JAVA/_Фреймворки/Spring/Описание библиотек.md",
     "JAVA/_Фреймворки/JUnit 5/Фреймворк JUnit 5.md",
     "JAVA/_Фреймворки/Spring/Аннотации.md",
@@ -233,7 +234,6 @@
     "Intellij IDEA/Фишки.md",
     "conflict-files-obsidian-git.md",
     "JAVA/_Библиотеки/java.lang.String.md",
-    "Intellij IDEA/Хоткеи.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
