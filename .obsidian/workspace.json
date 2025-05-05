@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a3150b470d9f2f8e",
+        "id": "90d7d648c1152e02",
         "type": "tabs",
         "children": [
           {
-            "id": "7f6d8ab79643c430",
+            "id": "0418a12bec6ed7a3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -202,8 +199,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7f6d8ab79643c430",
+  "active": "0418a12bec6ed7a3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "JAVA/_Библиотеки/Functional Interfaces.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/3. Stream API.md",
     "JAVA/_Библиотеки/java.time.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/java-stream-api.md",
@@ -230,8 +229,6 @@
     "JAVA/Java Core/3. Коллекции. Введение/1. Интерфейс Collection.md",
     "JAVA/Java Core/3. Коллекции. Введение/6. Map, Hashmap.md",
     "JAVA/Java Core/3. Коллекции. Введение/7. Set, TreeSet.md",
-    "JAVA/Java Core/3. Коллекции. Введение/Сортировка.md",
-    "JAVA/Java Core/3. Коллекции. Введение/8. PriorityQueue.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments",
