@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "3. Stream API"
             }
+          },
+          {
+            "id": "9d29d31a360f41b8",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +217,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7f6d8ab79643c430",
+  "active": "9d29d31a360f41b8",
   "lastOpenFiles": [
-    "JAVA/_Библиотеки/java.time.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/3. Stream API.md",
+    "JAVA/_Библиотеки/java.time.md",
     "JAVA/Java Core/4. FP, Lambda, Stream API/java-stream-api.md",
     "JAVA/_Библиотеки/java.lang.String.md",
     "JAVA/_Библиотеки/java.util.Arrays.md",
