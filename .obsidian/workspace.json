@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/_Библиотеки/Lombok/Аннотации.md",
+                "file": "JAVA/Чистый код.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аннотации"
+              "title": "Чистый код"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sneaky",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Файловый менеджер"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +206,9 @@
   },
   "active": "0418a12bec6ed7a3",
   "lastOpenFiles": [
+    "JAVA/_Фреймворки/Spring/Аннотации.md",
+    "JAVA/Чистый код.md",
+    "JAVA/_Библиотеки/Lombok/Аннотации.md",
     "java_backend_technologies.md",
     "Без названия.md",
     "INTELLIJ IDEA/Фишки.md",
@@ -229,9 +234,6 @@
     "JAVA/_Библиотеки, фреймворки/java.util.Scanner.md",
     "JAVA/_Библиотеки, фреймворки/Описание библиотек.md",
     "JAVA/_Библиотеки, фреймворки/java.util.Formatter.md",
-    "JAVA/_Библиотеки, фреймворки/Function Interfaces.md",
-    "JAVA/_Библиотеки, фреймворки/Collection Interface.md",
-    "JAVA/Java Core/_Библиотеки, фреймворки/java.util.Arrays.md",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
     "Intellij IDEA/__attachments/Pasted image 20241011010725.png",
     "JAVA/_Библиотеки, фреймворки/Spring",
