@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN/Синтаксис.md",
+                "file": "JAVA/Java Core/1. Базовый синтаксис/7. Ветвление.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Синтаксис"
+              "title": "7. Ветвление"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "switch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Файловый менеджер"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,6 +205,7 @@
   },
   "active": "0418a12bec6ed7a3",
   "lastOpenFiles": [
+    "MARKDOWN/Синтаксис.md",
     "JAVA/Java Core/1. Базовый синтаксис/9. Массивы.md",
     "JAVA/Java Core/1. Базовый синтаксис/8. Циклы.md",
     "JAVA/Java Core/1. Базовый синтаксис/7. Ветвление.md",
@@ -231,7 +231,6 @@
     "INTELLIJ IDEA/Фишки.md",
     "INTELLIJ IDEA/Плагины.md",
     "INTELLIJ IDEA/Хоткеи.md",
-    "Intellij IDEA/Плагины.md",
     "Intellij IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments/checkstyle.xml",
     "INTELLIJ IDEA/__attachments/Pasted image 20241011010725.png",
