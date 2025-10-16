@@ -2,7 +2,7 @@
 tags: Java/JDBC, ORM
 --- 
 
-[[JPA Hibernate ORM]], [[JDBC]]
+[[JPA Hibernate ORM]], [[Developing/Java/notes_other/notes/JDBC]]
 
 | JPA                  | JDBC по аналогии | Hibernate      |
 | -------------------- | ---------------- | -------------- |

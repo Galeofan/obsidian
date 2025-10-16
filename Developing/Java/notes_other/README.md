@@ -59,7 +59,7 @@
 ## Hibernate
 
 - [JPA Hibernate и JDBC сравнение интерфейсов](JPA%20Hibernate%20и%20JDBC%20сравнение%20интерфейсов.md)
-- [Hibernate](Hibernate.md)
+- [Hibernate](Developing/Java/notes_other/notes/Hibernate.md)
     - [Каким условиям должен удовлетворять класс чтобы являться Entity](Каким%20условиям%20должен%20удовлетворять%20класс%20чтобы%20являться%20Entity.md)
     - [EntityManager](EntityManager.md)
     - [Проблема N plus 1 Select Hibernate](Проблема%20N%20plus%201%20Select%20Hibernate.md)

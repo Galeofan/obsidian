@@ -44,7 +44,7 @@ title: Содержание
 ## Hibernate
 
 - [[JPA Hibernate и JDBC сравнение интерфейсов]]
-- [[Hibernate]]
+- [[Developing/Java/notes_other/notes/Hibernate]]
 	- [[Каким условиям должен удовлетворять класс чтобы являться Entity]]
 	- [[EntityManager]]
 	- [[Проблема N plus 1 Select Hibernate]]

@@ -153,5 +153,5 @@ public class Main {
 
 **Когда использовать proxy**
 ![[Применение паттерна proxy.png]]
-	[[Hibernate#PROXY|Hibernate Proxy]]
+	[[Developing/Java/notes_other/notes/Hibernate#PROXY|Hibernate Proxy]]
 	[[Spring Proxy]]
