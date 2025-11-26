@@ -1,0 +1,1 @@
+./gradlew appRun --info - запуск таска gretty c выводом логов
