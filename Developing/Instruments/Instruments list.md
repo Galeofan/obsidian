@@ -1,3 +1,0 @@
-mRemoteNg
-MobaXterm
-Dbeaver
