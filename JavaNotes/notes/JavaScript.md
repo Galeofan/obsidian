@@ -1,4 +1,0 @@
----
-tags: Front
---- 
-[[ AJAX fetch]]

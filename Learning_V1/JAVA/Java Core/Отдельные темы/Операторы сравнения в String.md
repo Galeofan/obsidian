@@ -1,4 +1,0 @@
----
-tags:
-  - Java_core
----
