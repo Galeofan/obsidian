@@ -25,7 +25,7 @@ http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=m
 **Инструкция:**
 Обязательно выключить в Realm settings -> User Profile валидацию полей email, firstName, latName
 Обязательно browser flow называть Browser with phone
+Обязательно registration flow называть Registration with phone
 
 **Что сделать допом:**
 Надо будет потом пересобрать образ и проверить с включенными userprofile вывод ошибок в лог
-
