@@ -23,7 +23,7 @@ Phone_auth
 http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=multitransfer-ui&response_type=code&redirect_uri=http://localhost:8982/test
 
 **Инструкция для прода:**
-Обязательно выключить в Realm settings -> User Profile валидацию полей email, firstName, latName
+Обязательно отключить в Realm settings -> User Profile валидацию полей email, firstName, latName
 Обязательно browser flow называть Browser with phone
 Обязательно registration flow называть Registration with phone
 В clients->multitransfer-ui задать phone scope by default чтобы в токене возвращалось:
@@ -39,4 +39,5 @@ http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=m
 Переименовать дтохи
 
 Закинуть на банковский пк образ
+подумать как аргументы запуска минимизировать, мб включить в образ сразу
 
