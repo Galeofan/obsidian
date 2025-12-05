@@ -212,10 +212,10 @@ X^2^
 - [?] question
 - [!] important
 - [*] star
-- [x] quote
+- [i] quote
 - [l] location
 - [b] bookmark
-- [x] information
+- [i] information
 - [x] savings
 - [I] idea
 - [p] pros
@@ -224,7 +224,7 @@ X^2^
 - [k] key
 - [w] win
 - [u] up
-- [x] down
+- [d] down
 - [D] draft pull request
-- [P] open pull request
-- [M] merged pull request
+- [x] open pull request
+- [x] merged pull request
