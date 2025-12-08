@@ -66,7 +66,9 @@
 
 ---
 # Стэк
+Java 21 + Postgres 17 + Gradle + Spring boot 3.3.3 + JPA + Docker
 
 # Архитектура
+Модульный монолит
 
 # Библиотеки
