@@ -44,8 +44,7 @@ System.out.println(user.getName()); // Andrey
       annotationProcessor 'org.projectlombok:lombok:1.18.30'
   }
   ```
-- Для IDE нужно включить поддержку аннотаций (в IntelliJ IDEA — включить Lombok plugin).
-- Также обязательно скачать плагин
+- Для IDE нужно обязательно включить поддержку аннотаций (в IntelliJ IDEA — обязательно включить Lombok plugin).
 
 ## ❗ Подводные камни / особенности
 - Код генерируется на этапе компиляции → в исходниках не видно методов
