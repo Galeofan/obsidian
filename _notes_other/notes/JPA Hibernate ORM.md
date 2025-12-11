@@ -25,7 +25,7 @@ JPA (Java Persistence API) описывает правила, а Hibernate ис�
 На основе Hibernate (2001) появилась спецификация JPA (2006). Хибер раньше.
 
 ## Hibernate
-[[Developing/Java/notes_other/notes/Hibernate]] 
+[[_notes_other/notes/Hibernate]] 
 
 >[!success] Главная цель hibernate – создание объектного слоя между кодом и БД, чтобы работать с таблицами, как с объектами.
 

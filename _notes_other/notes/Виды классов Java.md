@@ -9,7 +9,7 @@ Interfaces ([[Интерфейсы Java]])
 
 Enum ([[Enum Перечисления Java]]) 
 
-Nested class ([[Developing/Java/notes_other/notes/Вложенные классы]]): 
+Nested class ([[_notes_other/notes/Вложенные классы]]): 
 	- Static nested class (статический вложенный класс); 
 	- Member inner class (простой внутренний класс); 
 	- Local inner class (локальный класс); 

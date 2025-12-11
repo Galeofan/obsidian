@@ -31,4 +31,4 @@ logger.log(Level.INFO, "This is an info message");
 
 Логирование является важным инструментом для разработки и поддержки Java-приложений. Лог-файлы могут использоваться для отслеживания состояния приложения, выявления ошибок и устранения неполадок.
 
-[[Developing/Java/notes_other/notes/Log4j]]
+[[_notes_other/notes/Log4j]]
