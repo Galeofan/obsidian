@@ -27,7 +27,7 @@ http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=m
 Обязательно отключить в Realm settings -> User Profile валидацию полей email, firstName, latName
 Обязательно browser flow называть Browser with phone
 Обязательно registration flow называть Registration with phone
-В clients->multitransfer-ui задать phone scope by default чтобы в токене возвращалось:
+В clients->multitransfer-ui -> client_scopes задать phone scope by default чтобы в токене возвращалось:
 ```
   "scope": "profile phone",
   "phone_number_verified": true,
