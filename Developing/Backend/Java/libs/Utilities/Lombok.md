@@ -7,10 +7,18 @@ Lombok — библиотека для сокращения шаблонного
 ## 🚀 Основные аннотации
 - <font color="#ffff00">@Getter</font> / <font color="#ffff00">@Setter</font> — автоматически создают геттеры и сеттеры
 - <font color="#ffff00">@Data</font> — сочетает в себе <font color="#ffff00">@Getter</font>, <font color="#ffff00">@Setter</font>, <font color="#ffff00">@RequiredArgsConstructor</font>, <font color="#ffff00">@ToString</font>, <font color="#ffff00">@EqualsAndHashCode</font>
+- <font color="#ffff00">@Value</font> — Immutable класс (аналог `@Data`, но с `final`) без сеттеров
 - <font color="#ffff00">@Builder</font> — паттерн Builder для удобного создания объектов
 - <font color="#ffff00">@Builder</font> (toBuilder = true) — параметр для удобного создания копии иммутабельного объекта с некоторыми изменениями. Вызывается на объекте 
 - <font color="#ffff00">@Slf4j</font> — автоматически добавляет логгер
 - <font color="#ffff00">@NoArgsConstructor</font>, <font color="#ffff00">@AllArgsConstructor</font>, <font color="#ffff00">@RequiredArgsConstructor</font> — генерация конструкторов
+- <font color="#ffff00">@NonNull</font> - используется для автоматической проверки, что переданный параметр не является `null`.  
+	Если в метод передаётся `null`, будет выброшено `NullPointerException`.
+	✅ <font color="#00b050">Лучшее использование:</font>
+	- В конструкторах с `@RequiredArgsConstructor`
+	- В параметрах методов
+	⚠ <font color="#ff0000">Не ставить <font color="#ffff00">@NonNull</font> на поля, если нет конструктора – проверка не сработает!</font>
+- <font color="#ffff00">@FieldDefaults</font>(level = AccessLevel.PRIVAYE) - Эксперементальная фича. Делает все поля которые существуют в классе приватными или например финальными, можно регулировать
 
 ## 🔑 Ключевые примеры
 ```java
@@ -54,14 +62,6 @@ System.out.println(user.getName()); // Andrey
 ## 🔗 Ссылки
 - [Официальный сайт](https://projectlombok.org/)
 - [Аннотации Lombok](https://projectlombok.org/features/all)
-
-<font color="#ffff00">@NonNull</font> - используется для автоматической проверки, что переданный параметр не является `null`.  
-Если в метод передаётся `null`, будет выброшено `NullPointerException`.
-✅ <font color="#00b050">Лучшее использование:</font>
-- В конструкторах с `@RequiredArgsConstructor`
-- В параметрах методов
-
-⚠ <font color="#ff0000">НЕ ставьте `@NonNull` на поля, если нет конструктора – проверка не сработает!</font>
 
 ---
 
