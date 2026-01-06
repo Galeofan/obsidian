@@ -5,13 +5,12 @@ Lombok — библиотека для сокращения шаблонного
 Автоматически генерирует геттеры, сеттеры, конструкторы, методы `equals`, `hashCode`, `toString` и многое другое через аннотации.
 
 ## 🚀 Основные аннотации
-- `@Getter` / `@Setter` — автоматически создают геттеры и сеттеры
-- `@Data` — сочетает в себе `@Getter`, `@Setter`, `@RequiredArgsConstructor`, `@ToString`, `@EqualsAndHashCode`
-- `@Builder` — паттерн Builder для удобного создания объектов
-- `@Builder (toBuilder = true)` - параметр для удобного создания копии иммутабельного объекта с некоторыми изменениями. Вызывается на объекте 
-- `@Slf4j` — автоматически добавляет логгер
-- 
-- `@NoArgsConstructor`, `@AllArgsConstructor`, `@RequiredArgsConstructor` — генерация конструкторов
+- <font color="#ffff00">@Getter</font> / <font color="#ffff00">@Setter</font> — автоматически создают геттеры и сеттеры
+- <font color="#ffff00">@Data</font> — сочетает в себе <font color="#ffff00">@Getter</font>, <font color="#ffff00">@Setter</font>, <font color="#ffff00">@RequiredArgsConstructor</font>, <font color="#ffff00">@ToString</font>, <font color="#ffff00">@EqualsAndHashCode</font>
+- <font color="#ffff00">@Builder</font> — паттерн Builder для удобного создания объектов
+- <font color="#ffff00">@Builder</font> (toBuilder = true) — параметр для удобного создания копии иммутабельного объекта с некоторыми изменениями. Вызывается на объекте 
+- <font color="#ffff00">@Slf4j</font> — автоматически добавляет логгер
+- <font color="#ffff00">@NoArgsConstructor</font>, <font color="#ffff00">@AllArgsConstructor</font>, <font color="#ffff00">@RequiredArgsConstructor</font> — генерация конструкторов
 
 ## 🔑 Ключевые примеры
 ```java
@@ -49,7 +48,7 @@ System.out.println(user.getName()); // Andrey
 ## ❗ Подводные камни / особенности
 - Код генерируется на этапе компиляции → в исходниках не видно методов
 - Иногда ломается автогенерация при обновлении IDE/Gradle
-- Не рекомендуется злоупотреблять `@Data` для сложных сущностей (лучше явно определять нужные методы)
+- Нельзя использовать `@Data` для сложных сущностей (лучше явно определять нужные методы) иначе можно словить утечку памяти
 - Может мешать отладке, если IDE не корректно отображает сгенерированные методы
 
 ## 🔗 Ссылки
@@ -160,3 +159,5 @@ public class Example {
 ✔ Spring сам обернёт в `try-catch` и пробросит исключение.
 
 ---
+
+<font color="#ffff00">@FieldDefaults</font>(level = AccessLevel.PRIVAYE) - Эксперементальная фича. Делает все поля которые существуют в классе приватными
