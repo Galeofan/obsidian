@@ -1,4 +1,4 @@
-# GraphQL SDL — основные синтаксические особенности (шпаргалка)
+# GraphQL SDL syntax-cheatsheet — основные синтаксические особенности (шпаргалка)
 
 SDL (Schema Definition Language) описывает **схему** GraphQL: типы, поля, аргументы, директивы и т.д.
 

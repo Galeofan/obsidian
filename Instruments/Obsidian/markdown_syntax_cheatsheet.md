@@ -4,7 +4,7 @@ tags:
   - "#Markdown_syntax"
 links: https://help.obsidian.md/Home
 ---
-# Markdown Cheat Sheet
+# Markdown Cheatsheet
 
 Thanks for visiting:
 [The Markdown Guide](https://www.markdownguide.org)!
