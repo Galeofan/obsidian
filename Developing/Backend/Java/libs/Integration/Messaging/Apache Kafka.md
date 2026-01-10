@@ -1,3 +1,8 @@
-![[Шпаргалка по Kafka .pdf]]
+---
+tags:
+  - faang
+  - kafka
+---
 
-apache_kafka_cheatsheet
+![[Шпаргалка по Kafka .pdf]]
+kafka_cheatsheet

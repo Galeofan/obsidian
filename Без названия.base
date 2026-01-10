@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Таблица
+    order:
+      - file.name
+      - file.ctime
+      - tags
+    columnSize:
+      file.ctime: 156
+      note.tags: 151
