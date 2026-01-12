@@ -43,7 +43,7 @@ http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=m
 
 ##### Сделать
 Переименовать флоу Registration with phone registration forms на Registration with phone forms
-Вынести хотя бы урл в настройки флоу Browser with phone forms, Registration with phone forms
+Вынести хотя бы урл и гравити ключ в настройки флоу Browser with phone forms, Registration with phone forms
 Переименовать поле в бд вместо requestId на otpId+
 Переделать дтохи +
 Закинуть на банковский пк проект из м2 репо
