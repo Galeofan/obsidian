@@ -24,6 +24,10 @@ Phone_auth
 http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=multitransfer-ui&response_type=code&redirect_uri=http://localhost:8982/test
 
 ##### Инструкция для прода
+Эндпоинты
+	Отправка смс при авторизации: http://localhost:8080/realms/phone_auth/sms/authentication-code?phoneNumber=%2B79635678978
+	Отправка смс при регистрации: http://localhost:8080/realms/phone_auth/sms/registration-code?phoneNumber=%2B79678978786
+
 Обязательно отключить в Realm settings -> User Profile валидацию полей email, firstName, latName
 Обязательно browser flow называть Browser with phone
 Обязательно registration flow называть Registration with phone
@@ -37,10 +41,13 @@ http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=m
 ##### Что сделать допом
 Подумать как аргументы запуска минимизировать, мб включить в образ сразу или через переменные окружения
 
-##### Когда будет апи
-Переименовать поле в бд вместо requestId
-Переименовать дтохи
+##### Сделать
+Переименовать флоу Registration with phone registration forms на Registration with phone forms
+Вынести хотя бы урл в настройки флоу Browser with phone forms, Registration with phone forms
+Переименовать поле в бд вместо requestId на otpId+
+Переделать дтохи +
 Закинуть на банковский пк проект из м2 репо
+Залить проект в гит
 
 ##### Чек-лист
 Переименовать класс формы юзер фон емаил форм +
