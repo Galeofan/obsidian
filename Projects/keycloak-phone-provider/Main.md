@@ -28,6 +28,10 @@ http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=m
 	Отправка смс при авторизации: http://localhost:8080/realms/phone_auth/sms/authentication-code?phoneNumber=%2B79635678978
 	Отправка смс при регистрации: http://localhost:8080/realms/phone_auth/sms/registration-code?phoneNumber=%2B79678978786
 
+gravitee api key задать в environment linuxa
+Урл для отправки смс передать в: --spi-message-sender-service-mrc-sms-send-url=https://host.docker.internal:8983/sms
+Урл для подтверждения кода передать в: --spi-phone-verification-code-default-otp-verify-url=https://host.docker.internal:8983/otp
+
 Обязательно отключить в Realm settings -> User Profile валидацию полей email, firstName, latName
 Обязательно browser flow называть Browser with phone
 Обязательно registration flow называть Registration with phone
@@ -37,17 +41,19 @@ http://localhost:8080/realms/phone_auth/protocol/openid-connect/auth?client_id=m
   "phone_number_verified": true,
   "phone_number": "+79636022359",
 ```
-
+Задать Authentication -> Required Actions -> update profile 
 ##### Что сделать допом
 Подумать как аргументы запуска минимизировать, мб включить в образ сразу или через переменные окружения
 
 ##### Сделать
-Переименовать флоу Registration with phone registration forms на Registration with phone forms
-Вынести хотя бы урл и гравити ключ в настройки флоу Browser with phone forms, Registration with phone forms
-Переименовать поле в бд вместо requestId на otpId+
+Разделить конфиг на 2 скоупа
+Вынести хотя бы урлы отправки смс и подтверждения отп в configScope
+Вынести гравити ключ в environment
+Переименовать поле в бд вместо requestId на otpId +
 Переделать дтохи +
 Закинуть на банковский пк проект из м2 репо
-Залить проект в гит
+Залить проект в мультиковский гит
+Инструкция в ридми, указать что надо добавить docker/.env файл для локальной разработки
 
 ##### Чек-лист
 Переименовать класс формы юзер фон емаил форм +
