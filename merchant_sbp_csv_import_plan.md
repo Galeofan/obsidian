@@ -1,8 +1,9 @@
 # План реализации поэтапно: импорт ЮЛ и ТСП из CSV через FTP в merchant-sbp
 
 Контекст:
+- Сервис на java 17, spring boot 3.4.2
 - Входящие CSV-файлы приходят на FTP в разные директории: `/home/gate_ftp/MERCHANT_SBP/IN/LEGAL` и `/home/gate_ftp/MERCHANT_SBP/IN/MERCHANT`
-- Маски (без учёта регистра): `legal.csv`, `merchant.csv`
+- Маски (без учёта регистра): `legal*.csv`, `merchant*.csv`
 - CSV: UTF-8, `;`, header обязателен, кавычки/экранирование разрешены, пустых строк нет
 - Валидация: **все поля обязательны**, пустота определяется как `value.trim().isEmpty() == true`
 - Ключи:
@@ -24,9 +25,9 @@
 **Результат:** фиксируем контракт и точки интеграции, чтобы не переделывать.
 
 1. Подтвердить список колонок для 2 шаблонов: +
-   - `legal.csv` (включая `acquirer_entity_id`) - acquirer_entity_id;ext_entity_id;country_code;account;name
-   - `merchant.csv` (включая `acquirer_merchant_id`, `legal_entity_id`) - legal_entity_id;acquirer_merchant_id;brand_name;mcc;country_code;country_sub_code;city;address;zip;phone;inn;tsp_url;sales_mode
-2. Согласовать целевые имена директорий на FTP: +
+   - `legal*.csv` (включая `acquirer_entity_id`) - acquirer_entity_id;ext_entity_id;country_code;account;name
+   - `merchant*.csv` (включая `acquirer_merchant_id`, `legal_entity_id`) - legal_entity_id;acquirer_merchant_id;brand_name;mcc;country_code;country_sub_code;city;address;zip;phone;inn;tsp_url;sales_mode
+1. Согласовать целевые имена директорий на FTP: +
    - вход: `/home/gate_ftp/MERCHANT_SBP/IN/LEGAL`, `/home/gate_ftp/MERCHANT_SBP/IN/MERCHANT`
    - выход для перемещения: `/home/gate_ftp/MERCHANT_SBP/PROCESSED`, `/home/gate_ftp/MERCHANT_SBP/FAILED` (общие)   
 3. Зафиксировать правила переименования при коллизии в `/home/gate_ftp/MERCHANT_SBP/PROCESSED`: +
@@ -72,7 +73,7 @@
 - при необходимости `(file_id)` отдельно
 
 **DoD:**
-- Flyway миграции применяются на чистой БД.
+- Flyway миграции применяются на существующей БД.
 - Таблицы доступны репозиториям, FK работает.
 
 ---
@@ -89,13 +90,11 @@
 3. Настроить properties:
    - `ftp.in.legalEntityDir`
    - `ftp.in.merchantDir`
-   - `ftp.processedDir` / `ftp.failedDir` (или по сущностям)
+   - `ftp.processedDir` 
+   - `ftp.failedDir`
    - `ftp.mask.legalEntity`, `ftp.mask.merchant`
    - `ftp.parallelism` (кол-во параллельно обрабатываемых файлов)
 4. Убедиться, что операции `rename/move` доступны на сервере FTP (обычно да).
-
-**DoD:**
-- Можно вручную (локальным тестом) скачать файл с FTP и переместить его в `processed/` с timestamp при коллизии.
 
 ---
 
@@ -109,7 +108,7 @@
    - ExecutorService с фиксированным пулом (`ftp.parallelism`)
 3. Анти-дубли:
    - при старте обработки создаём запись в registry (status `UPLOADED`)
-   - если такая запись уже существует в non-terminal статусе (или по уникальному ключу на `file_name + entity_type + upload_date?`) — не стартовать повторно
+   - всегда разрешаем стартовать запись но при этом пропускаем строки которые уже записались в таблицы merchant_sbp.merchants или merchant_sbp.legal_entity
    - рекомендуется: перед началом переместить файл во временную папку `processing/` (если возможно) или “захватить” записью в БД
 
 **DoD:**
@@ -146,11 +145,11 @@
 
 1. Правило пустоты:
    - `value == null || value.trim().isEmpty()` → invalid
-2. Все поля из схемы обязательны:
+1. Для legal: 
+   - все поля из схемы обязательны
    - любое пустое поле → invalid (`REQUIRED_FIELD_EMPTY`)
-3. Проверка лидирующих нулей для `acquirer_entity_id` и `acquirer_merchant_id`:
-   - если строка начинается с `'0'` → invalid (`LEADING_ZERO_NOT_ALLOWED`)
-4. Для merchant:
+1. Для merchant:
+   - поля phone и tsp_url необязательны
    - `legal_entity_id` парсится как UUID
    - проверка существования ЮЛ:
      - если не найден → invalid (`LEGAL_ENTITY_NOT_FOUND`)
@@ -171,14 +170,14 @@
 **Цель:** записать валидные строки, дубли пропускать.
 
 ### 6.1 legal_entity
-1. Подготовить insert (JDBC / jOOQ / Spring Data — что используется в проекте)
+1. Подготовить insert (Spring Data JPA — используется в проекте)
 2. Вставка:
    - `INSERT ... ON CONFLICT (acquirer_entity_id) DO NOTHING`
 3. По результату:
    - если вставилась строка → `lines_valid++`
    - если не вставилась (conflict) → `lines_skipped++`
 4. Проставить аудит:
-   - `created_by/updated_by = 'PHUB'`
+   - `created_by/updated_by = jsonb вида: {"id": "PHUB"}`
 
 ### 6.2 merchant
 1. Проверку существования `legal_entity_id` желательно делать заранее:
@@ -187,7 +186,7 @@
 2. Вставка:
    - `INSERT ... ON CONFLICT (acquirer_merchant_id, legal_entity_id) DO NOTHING`
 3. Аналогично считаем valid/skipped
-4. Аудит: `PHUB`
+4. Аудит:  `created_by/updated_by = jsonb вида: {"id": "PHUB"}`
 
 Транзакции:
 - Рекомендуемое: **одна транзакция на файл**
@@ -210,8 +209,8 @@
    - при исключении/системной ошибке → `FAILED`
 3. `updated_date` обновлять на каждом переходе
 4. Перемещение файла:
-   - `COMPLETED` / `COMPLETED_WITH_ERRORS` → `processed/`
-   - `FAILED` → `failed/`
+   - `COMPLETED` / `COMPLETED_WITH_ERRORS` → `/home/gate_ftp/MERCHANT_SBP/PROCESSED`
+   - `FAILED` → `/home/gate_ftp/MERCHANT_SBP/FAILED`
    - при коллизии имени → timestamp suffix
 
 **DoD:**
@@ -271,6 +270,4 @@
 
 ## Примечания по рискам
 - **UUID** для `legal_entity_id` в merchant CSV: при неверном формате будет много invalid — обязательно лог/код ошибки `UUID_PARSE_ERROR`.
-- “Все поля обязательны” + “частично пустые колонки допустимы” противоречат друг другу. В реализации принято правило: **пустые значения = invalid**, файл обрабатывается дальше.
 - Параллельные файлы: важно ограничить пул и корректно “захватывать” файл, чтобы не стартовать дважды.
-
