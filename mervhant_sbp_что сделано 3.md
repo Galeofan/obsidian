@@ -18,6 +18,9 @@ src/main/java/ru/mtsbank/ph/merchantsbp/service/importer/persistence/MerchantPer
 Unit-тесты:
 ◦
 src/test/java/ru/mtsbank/ph/merchantsbp/service/importer/persistence/ImportPersistenceServiceTest.java
+
+
+
 Что делает сервис:
 •
 insertLegalEntities(List<LegalEntityPersistenceRow>)
@@ -43,6 +46,9 @@ retry_count = 0
 sales_mode = FACE_TO_FACE, если в строке null
 ◦
 created_by/updated_by = {"id":"PHUB"}
+
+
+
 Проверка:
 •
 Запуск mvn -q -Dtest=ImportPersistenceServiceTest test не прошёл из-за инфраструктуры Maven/Nexus (ошибка сертификата nexus.services.mts.ru, SAN mismatch), а не из-за кода.
