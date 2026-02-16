@@ -2,7 +2,7 @@
 
 Контекст:
 - Сервис на java 17, spring boot 3.4.2
-- Входящие CSV-файлы приходят на FTP в разные директории: `/home/gate_ftp/MERCHANT_SBP/IN/LEGAL` и `/home/gate_ftp/MERCHANT_SBP/IN/MERCHANT`
+- Входящие CSV-файлы приходят на FTP в разные директории: `/home/gate_ftp/MERCHANT_SBP/LEGAL_REGISTRATION` и `/home/gate_ftp/MERCHANT_SBP/MERCHANT_REGISTRATION`
 - Маски (без учёта регистра): `legal*.csv`, `merchant*.csv`
 - CSV: UTF-8, `;`, header обязателен, кавычки/экранирование разрешены, пустых строк нет
 - Валидация: **все поля обязательны**, пустота определяется как `value.trim().isEmpty() == true`
@@ -28,7 +28,7 @@
    - `legal*.csv` (включая `acquirer_entity_id`) - acquirer_entity_id;ext_entity_id;country_code;account;name
    - `merchant*.csv` (включая `acquirer_merchant_id`, `legal_entity_id`) - legal_entity_id;acquirer_merchant_id;brand_name;mcc;country_code;country_sub_code;city;address;zip;phone;inn;tsp_url;sales_mode
 1. Согласовать целевые имена директорий на FTP: +
-   - вход: `/home/gate_ftp/MERCHANT_SBP/IN/LEGAL`, `/home/gate_ftp/MERCHANT_SBP/IN/MERCHANT`
+   - вход: `/home/gate_ftp/MERCHANT_SBP/LEGAL_REGISTRATION`, `/home/gate_ftp/MERCHANT_SBP/MERCHANT_REGISTRATION`
    - выход для перемещения: `/home/gate_ftp/MERCHANT_SBP/PROCESSED`, `/home/gate_ftp/MERCHANT_SBP/FAILED` (общие)   
 3. Зафиксировать правила переименования при коллизии в `/home/gate_ftp/MERCHANT_SBP/PROCESSED`: +
    - добавление timestamp к имени

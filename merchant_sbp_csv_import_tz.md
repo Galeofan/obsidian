@@ -26,8 +26,8 @@
 
 ### 2.1 Директории
 Входящие директории:
-- LEGAL: `/home/gate_ftp/MERCHANT_SBP/IN/LEGAL`
-- MERCHANT: `/home/gate_ftp/MERCHANT_SBP/IN/MERCHANT`
+- LEGAL: `/home/gate_ftp/MERCHANT_SBP/LEGAL_REGISTRATION`
+- MERCHANT: `/home/gate_ftp/MERCHANT_SBP/MERCHANT_REGISTRATION`
 
 Выходные директории (общие):
 - PROCESSED: `/home/gate_ftp/MERCHANT_SBP/PROCESSED`
