@@ -13,7 +13,7 @@
 <font color="#ffff00">@JsonAnySetter</font> - используется для того, чтобы обрабатывать **дополнительные или неизвестные поля** JSON, которые **не сопоставлены ни с одним полем класса**. Она позволяет динамически собирать все «лишние» поля в одну коллекцию (обычно `Map<String, Object>`).  Это особенно полезно, когда структура JSON может меняться или содержит произвольные ключи.
 <font color="#ffff00">@JsonProperty</font>("field_name") - Переименовывает поля DTO при сериализации на клиента
 <font color="#ffff00">@JsonIgnoreProperties</font>(ignoreUnknown = true) - Вешается на класс например DTO. Позволяет не падать на десериализации если в ответе пришло неизвестное поле
-
+<font color="#ffff00">@JsonFormat</font>(shape = JsonFormat.Shape.STRING) - сериализация в строковом виде, например числа BigDecimal как строку
 ## 🔑 Ключевые методы
 - `readValue(String, Class<T>)` — JSON → объект
 - `writeValueAsString(Object)` — объект → JSON
