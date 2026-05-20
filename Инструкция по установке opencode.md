@@ -17,3 +17,6 @@ $newPath,
 )
 
 ```
+
+3) Скачать Windows embeddable package (64-bit)
+4) 
