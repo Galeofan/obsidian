@@ -1,4 +1,3 @@
-
 1. **Idea / Problem Statement** - Сформулировать проблему
 2. **Discovery / Research** - Исследовать рынок и ограничения
 3. **PoC (Proof of Concept)** - Проверить техническую возможность
@@ -7,7 +6,7 @@
 6. **Pilot / Beta** - Ограниченный запуск
 7. **Production Release (GA – General Availability)** - Полный промышленный запуск
 8. **Post-GA / Scaling / Iteration** - Развитие и рост
-9. End-of-Life (Sunset) - Завершение
+9. **End-of-Life (Sunset)** - Завершение
 # 1️⃣ Idea / Problem Statement
 
 Формулируется проблема:
